@@ -15,7 +15,7 @@ weight = 5
     "Meta-analysis",
     "Publication bias",
     "R programming",
-    "Parallel computing"
+    "Sports analytics"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -28,4 +28,4 @@ weight = 5
 
 # Welcome to my website
 
-I am currently a PhD student at the department of Methodology and Statistics at Tilburg University and member of the [Meta-Research Center](http://metaresearch.nl/). My research interests are statistical methods to conduct meta-analyses and methods to correct for publication bias. I am also a [BITSS Catalyst](https://www.bitss.org/catalysts/) advocating research transparency.
+I am currently a postdocteral researcher at the department of Methodology and Statistics at Tilburg University and member of the [Meta-Research Center](http://metaresearch.nl/). My research interests are statistical methods to conduct meta-analyses and methods to correct for publication bias. I am also a [BITSS Catalyst](https://www.bitss.org/catalysts/) advocating research transparency.
