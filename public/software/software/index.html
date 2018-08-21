@@ -240,7 +240,23 @@
 
 <h3 id="installing-the-puniform-package">Installing the &ldquo;puniform&rdquo; package</h3>
 
-<p>The &ldquo;puniform&rdquo; package is available on <a href="https://github.com/RobbievanAert/puniform" target="_blank">Github</a> and can therefore be easily loaded into R. The following lines of code install and load the package into a R session:</p>
+<p>The &ldquo;puniform&rdquo; package is available on <a href="https://cran.r-project.org/web/packages/puniform/index.html" target="_blank">CRAN</a>, and it can be easily installed and loaded into R. The following lines of code install and load the package into a R session:</p>
+
+<pre><code class="language-python">### Install puniform package
+install.packages(&quot;puniform&quot;)
+
+### Load puniform package
+library(puniform)
+
+### Access documentation
+?puniform
+?hybrid
+?snapshot
+</code></pre>
+
+<h3 id="installing-the-development-version-of-the-puniform-package">Installing the development version of the &ldquo;puniform&rdquo; package</h3>
+
+<p>It is also possible to install and load the development version of the package. This version of the package is available on <a href="https://github.com/RobbievanAert/puniform" target="_blank">Github</a> and contains the latest changes. The following lines of code can be used to install and load the development version into a R session:</p>
 
 <pre><code class="language-python">### Install devtools package
 install.packages(&quot;devtools&quot;)
@@ -250,11 +266,6 @@ devtools::install_github(&quot;RobbievanAert/puniform&quot;)
 
 ### Load puniform package
 library(puniform)
-
-### Access documentation
-?puniform
-?hybrid
-?snapshot
 </code></pre>
 
 <h3 id="web-applications">Web applications</h3>

@@ -11,7 +11,24 @@ I am the author and developer of the R package "puniform" that contains meta-ana
 
 ### Installing the "puniform" package
 
-The "puniform" package is available on [Github](https://github.com/RobbievanAert/puniform) and can therefore be easily loaded into R. The following lines of code install and load the package into a R session:
+The "puniform" package is available on [CRAN](https://cran.r-project.org/web/packages/puniform/index.html), and it can be easily installed and loaded into R. The following lines of code install and load the package into a R session:
+
+```python
+### Install puniform package
+install.packages("puniform")
+
+### Load puniform package
+library(puniform)
+
+### Access documentation
+?puniform
+?hybrid
+?snapshot
+```
+
+### Installing the development version of the "puniform" package
+
+It is also possible to install and load the development version of the package. This version of the package is available on [Github](https://github.com/RobbievanAert/puniform) and contains the latest changes. The following lines of code can be used to install and load the development version into a R session:
 
 ```python
 ### Install devtools package
@@ -22,11 +39,6 @@ devtools::install_github("RobbievanAert/puniform")
 
 ### Load puniform package
 library(puniform)
-
-### Access documentation
-?puniform
-?hybrid
-?snapshot
 ```
 
 ### Web applications
