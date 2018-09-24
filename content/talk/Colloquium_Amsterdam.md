@@ -10,7 +10,7 @@ location = "University of Amsterdam, Amsterdam, the Netherlands"
 selected = false
 math = true
 
-url_pdf = "Colloquium_2018_A_dam_website.pdf"
+url_pdf = "talk/Colloquium_2018_A_dam_website.pdf"
 url_slides = ""
 url_video = ""
 +++
