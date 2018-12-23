@@ -1,0 +1,15 @@
+---
+title: performance
+author: ''
+date: '2018-12-23'
+slug: performance
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+```{r, echo = FALSE}
+shiny::includeHTML("Report_performance.html") 
+```

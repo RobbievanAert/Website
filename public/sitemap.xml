@@ -5,6 +5,42 @@
     
     <url>
     
+      <loc>/performance/performance/</loc>
+      <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cis_tau2_odds/</loc>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ml2/</loc>
+      <lastmod>2018-12-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/colloquium_amsterdam/</loc>
+      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/pub_bias_q-test/</loc>
       <lastmod>2018-08-21T00:00:00+00:00</lastmod>
     </url>
@@ -50,8 +86,8 @@
     
     <url>
     
-      <loc>/software/software/</loc>
-      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
+      <loc>/publication/hybrid/</loc>
+      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,8 +95,8 @@
     
     <url>
     
-      <loc>/publication/hybrid/</loc>
-      <lastmod>2017-09-21T00:00:00+00:00</lastmod>
+      <loc>/software/software/</loc>
+      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
     </url>
     
   
@@ -151,6 +187,15 @@
     
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/performance/</loc>
+      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -356,8 +401,16 @@
     
     <url>
     
+      <loc>/performance/report_performance/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/2/</loc>
-      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -386,7 +439,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
