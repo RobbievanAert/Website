@@ -5,8 +5,17 @@
     
     <url>
     
-      <loc>/performance/performance/</loc>
-      <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+      <loc>/post/performance/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/prediction/</loc>
+      <lastmod>2019-01-07T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -187,15 +196,6 @@
     
       <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/performance/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -401,7 +401,15 @@
     
     <url>
     
-      <loc>/performance/report_performance/</loc>
+      <loc>/post/report_bets/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/report_performance/</loc>
     </url>
     
   
