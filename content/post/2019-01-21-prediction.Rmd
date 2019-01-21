@@ -1,7 +1,7 @@
 ---
 title: prediction
 author: ''
-date: "`r as.character(Sys.Date())`"
+date: '`r Sys.Date()`'
 slug: prediction
 categories: []
 tags: []
@@ -10,6 +10,11 @@ header:
   image: ''
 ---
 
-```{r, echo = TRUE}
+```{r, echo = FALSE, eval = FALSE}
 shiny::includeHTML("Report_bets.html") 
 ```
+
+```{r}
+5+5
+```
+
