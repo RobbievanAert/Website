@@ -1,0 +1,15 @@
+---
+title: prediction
+author: ''
+date: '2019-01-21'
+slug: prediction
+categories: []
+tags: []
+header:
+  caption: ''
+  image: ''
+---
+
+```{r, echo = FALSE}
+shiny::includeHTML("Report_bets.html") 
+```
