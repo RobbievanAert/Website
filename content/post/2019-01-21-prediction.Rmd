@@ -1,20 +1,15 @@
 ---
-title: prediction
+title: "prediction"
 author: ''
-date: '2019-01-21'
-slug: prediction
-categories: []
-tags: []
+date: "`r Sys.Date()`"
 header:
   caption: ''
   image: ''
+slug: prediction
+tags: []
+categories: []
 ---
 
-```{r, echo = FALSE, eval = FALSE}
+```{r, echo = FALSE}
 shiny::includeHTML("Report_bets.html") 
 ```
-
-```{r}
-5+5
-```
-
