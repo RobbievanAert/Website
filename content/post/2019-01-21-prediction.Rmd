@@ -10,6 +10,13 @@ tags: []
 categories: []
 ---
 
-```{r, echo = FALSE}
-shiny::includeHTML("Report_bets.html") 
+```{r, echo = FALSE, eval = FALSE}
+dat_bets <- read.table(paste0("bets_", as.numeric(format(Sys.Date()-9, "%Y%m%d")), ".txt"),
+                      stringsAsFactors = FALSE)
+colnames(dat_bets) <- rep("", ncol(dat_bets))
+dat_bets
+```
+
+```{r, echo=FALSE}
+htmltools::includeHTML("Report_bets.html")
 ```

@@ -1,3 +1,17 @@
+---
+title: "prediction"
+author: ''
+date: "2019-02-02"
+header:
+  caption: ''
+  image: ''
+slug: prediction
+tags: []
+categories: []
+---
+
+
+
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -188,166 +202,38 @@ $(document).ready(function () {
 </div>
 
 
-<pre><code>##                                                                          
-## tour_name   australian-open              australian-open  australian-open
-## player1     Kamil Majchrzak Lloyd George Muirhead Harris     Albert Ramos
-## player2       Kei Nishikori              Daniil Medvedev Marton Fucsovics
-## match_date         20190115                     20190115         20190115
-## start_time            01:00                        01:00            01:00
-## surf                   Hard                         Hard             Hard
-## winner_pred   Kei Nishikori              Daniil Medvedev Marton Fucsovics
-## prob_win               0.95                         0.86             0.81
-## 10Bet                  0.98                         0.87            0.826
-## Betsson               0.971                        0.862            0.833
-## BetVictor              0.99                        0.877            0.833
-## Interwetten           0.971                        0.833             0.82
-## Unibet                0.971                        0.862             0.82
-## where               Betsson                  Interwetten      Interwetten
-## edge                      0                            1                0
-##                                                                  
-## tour_name         australian-open australian-open australian-open
-## player1               Sam Querrey    Ivo Karlovic    Ilya Ivashka
-## player2     Pierre Hugues Herbert  Hubert Hurkacz    Malek Jaziri
-## match_date               20190115        20190115        20190115
-## start_time                  01:00           01:00           01:00
-## surf                         Hard            Hard            Hard
-## winner_pred           Sam Querrey    Ivo Karlovic    Ilya Ivashka
-## prob_win                     0.66            0.55            0.73
-## 10Bet                        0.68           0.575           0.699
-## Betsson                      0.68           0.575           0.704
-## BetVictor                   0.694           0.571           0.714
-## Interwetten                 0.667           0.588            0.69
-## Unibet                      0.671           0.568           0.699
-## where                 Interwetten          Unibet     Interwetten
-## edge                            0               0               1
-##                                                            
-## tour_name   australian-open australian-open australian-open
-## player1       Nicolas Jarry   Fabio Fognini     Jiri Vesely
-## player2      Leonardo Mayer     Jaume Munar   Ryan Harrison
-## match_date         20190115        20190115        20190115
-## start_time            01:00           01:00           01:00
-## surf                   Hard            Hard            Hard
-## winner_pred  Leonardo Mayer   Fabio Fognini   Ryan Harrison
-## prob_win               0.56            0.69            0.61
-## 10Bet                 0.585           0.699           0.629
-## Betsson               0.575           0.694           0.633
-## BetVictor             0.571            0.69           0.637
-## Interwetten           0.571           0.714           0.625
-## Unibet                0.568           0.704           0.621
-## where                Unibet       BetVictor          Unibet
-## edge                      0               1               0
-##                                                                 
-## tour_name    australian-open     australian-open australian-open
-## player1     Bjorn Fratangelo          Luca Vanni     Laslo Djere
-## player2         Gilles Simon Pablo Carreno Busta  Evgeny Donskoy
-## match_date          20190115            20190115        20190115
-## start_time             02:30               02:30           02:30
-## surf                    Hard                Hard            Hard
-## winner_pred     Gilles Simon Pablo Carreno-Busta     Laslo Djere
-## prob_win                 0.8                0.81            0.51
-## 10Bet                    0.8               0.794           0.546
-## Betsson                  0.8               0.787           0.549
-## BetVictor                0.8                 0.8           0.556
-## Interwetten             &lt;NA&gt;                0.82           0.571
-## Unibet                   0.8               0.794           0.562
-## where                  10Bet             Betsson           10Bet
-## edge                       1                   1               0
-##                                                            
-## tour_name   australian-open australian-open australian-open
-## player1         Borna Coric     Hyeon Chung       Alex Bolt
-## player2        Steve Darcis   Bradley Klahn       Jack Sock
-## match_date         20190115        20190115        20190115
-## start_time            02:30           02:30           02:30
-## surf                   Hard            Hard            Hard
-## winner_pred     Borna Coric     Hyeon Chung       Jack Sock
-## prob_win               0.89            0.69            0.73
-## 10Bet                 0.877           0.694           0.735
-## Betsson               0.877           0.694           0.741
-## BetVictor              0.87           0.694           0.735
-## Interwetten            0.87            0.69           0.741
-## Unibet                0.862            0.69           0.735
-## where                Unibet     Interwetten           10Bet
-## edge                      1               1               0
-##                                                                 
-## tour_name   australian-open    australian-open   australian-open
-## player1         Guido Pella        Taro Daniel     Lucas Pouille
-## player2          Joao Sousa Thanasi Kokkinakis Mikhail Kukushkin
-## match_date         20190115           20190115          20190115
-## start_time            03:00              04:00             04:00
-## surf                   Hard               Hard              Hard
-## winner_pred      Joao Sousa Thanasi Kokkinakis     Lucas Pouille
-## prob_win               0.58               0.77              0.63
-## 10Bet                 0.575              0.794             0.654
-## Betsson               0.575              0.787             0.654
-## BetVictor             0.588              0.775             0.654
-## Interwetten           0.625              0.787              0.69
-## Unibet                0.578              0.775             0.658
-## where                 10Bet          BetVictor             10Bet
-## edge                      1                  0                 0
-##                                                              
-## tour_name    australian-open  australian-open australian-open
-## player1     Filip Krajinovic Alexander Zverev    David Goffin
-## player2     Marco Cecchinato     Aljaz Bedene Christian Garin
-## match_date          20190115         20190115        20190115
-## start_time             04:00            04:00           04:00
-## surf                    Hard             Hard            Hard
-## winner_pred Filip Krajinovic Alexander Zverev    David Goffin
-## prob_win                0.55             0.91            0.87
-## 10Bet                  0.575            0.901           0.862
-## Betsson                0.575            0.901           0.855
-## BetVictor              0.571            0.909           0.847
-## Interwetten            0.588            0.893           0.833
-## Unibet                 0.575            0.885           0.855
-## where              BetVictor           Unibet     Interwetten
-## edge                       0                1               1
-##                                                                    
-## tour_name   australian-open       australian-open   australian-open
-## player1       Jeremy Chardy Philipp Kohlschreiber Marcel Granollers
-## player2         Ugo Humbert                Zhe Li      Marius Copil
-## match_date         20190115              20190115          20190115
-## start_time            04:30                 04:30             04:30
-## surf                   Hard                  Hard              Hard
-## winner_pred   Jeremy Chardy Philipp Kohlschreiber      Marius Copil
-## prob_win               0.57                  0.95               0.6
-## 10Bet                 0.613                 0.962             0.621
-## Betsson               0.617                 0.952             0.617
-## BetVictor             0.625                 0.971             0.617
-## Interwetten           0.625                 0.952             0.625
-## Unibet                0.625                 0.952             0.633
-## where                 10Bet               Betsson           Betsson
-## edge                      0                     0                 0
-##                                                                
-## tour_name    australian-open australian-open    australian-open
-## player1        Pablo Andujar  Alexei Popyrin Jo Wilfried Tsonga
-## player2     Denis Shapovalov   Mischa Zverev      Martin Klizan
-## match_date          20190115        20190115           20190115
-## start_time             05:00           05:30              05:30
-## surf                    Hard            Hard               Hard
-## winner_pred Denis Shapovalov  Alexei Popyrin Jo-Wilfried Tsonga
-## prob_win                0.88            0.64               0.83
-## 10Bet                   &lt;NA&gt;            0.69              0.775
-## Betsson                 &lt;NA&gt;            0.68              0.775
-## BetVictor               &lt;NA&gt;            0.69              0.775
-## Interwetten            0.893            0.69              0.787
-## Unibet                 0.893           0.685              0.781
-## where            Interwetten         Betsson              10Bet
-## edge                       0               0                  1
-##                                                                
-## tour_name      australian-open  australian-open australian-open
-## player1     Stanislas Wawrinka   Novak Djokovic    Nick Kyrgios
-## player2         Ernests Gulbis Mitchell Krueger    Milos Raonic
-## match_date            20190115         20190115        20190115
-## start_time               06:00            09:00           09:00
-## surf                      Hard             Hard            Hard
-## winner_pred      Stan Wawrinka   Novak Djokovic    Milos Raonic
-## prob_win                  0.81             0.95            0.55
-## 10Bet                    0.794                1           0.556
-## Betsson                    0.8                1           0.549
-## BetVictor                0.775             0.99           0.535
-## Interwetten              0.787             0.99           0.588
-## Unibet                   0.787             0.99           0.568
-## where                BetVictor        BetVictor       BetVictor
-## edge                         1                0               1</code></pre>
+<pre><code>##                                                                    
+## tour_name           sydney       sydney        sydney        sydney
+## player1     Alex De Minaur Malek Jaziri Reilly Opelka Matthew Ebden
+## player2      Dusan Lajovic  Sam Querrey  Albert Ramos Nicolas Jarry
+## match_date        20190107     20190107      20190107      20190107
+## start_time           02:00        02:00         05:00         06:30
+## surf                  Hard         Hard          Hard          Hard
+## winner_pred Alex De Minaur  Sam Querrey Reilly Opelka Nicolas Jarry
+## prob_win              0.83         0.67          0.68          0.53
+## 10Bet                0.787        0.699          0.68         0.546
+## Betsson                0.8        0.704         0.694         0.549
+## BetVictor            0.775         0.69         0.714         0.556
+## Interwetten            0.8         0.69          0.69         0.571
+## Unibet               0.781        0.676          0.69         0.559
+## where            BetVictor       Unibet         10Bet         10Bet
+## edge                     1            0             1             0
+##                               
+## tour_name               sydney
+## player1          Ryan Harrison
+## player2     Yoshihito Nishioka
+## match_date            20190107
+## start_time               08:00
+## surf                      Hard
+## winner_pred Yoshihito Nishioka
+## prob_win                  0.56
+## 10Bet                    0.575
+## Betsson                  0.585
+## BetVictor                0.556
+## Interwetten              0.606
+## Unibet                   0.568
+## where                BetVictor
+## edge                         1</code></pre>
 
 
 
