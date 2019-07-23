@@ -1,5 +1,70 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <loc>/talk/sips_rotterdam/</loc>
+      <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/</loc>
+      <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/</loc>
+      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/cis_tau2_odds/</loc>
+      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/knha_wls/</loc>
+      <lastmod>2019-05-20T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/meta-meta/</loc>
+      <lastmod>2019-04-12T00:00:00+00:00</lastmod>
+    </url>
+    
   
     
     
@@ -23,8 +88,8 @@
     
     <url>
     
-      <loc>/publication/cis_tau2_odds/</loc>
-      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
+      <loc>/publication/pub_bias_q-test/</loc>
+      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -50,8 +115,8 @@
     
     <url>
     
-      <loc>/publication/pub_bias_q-test/</loc>
-      <lastmod>2018-08-21T00:00:00+00:00</lastmod>
+      <loc>/talk/imps_new_york/</loc>
+      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
     </url>
     
   
@@ -59,8 +124,9 @@
     
     <url>
     
-      <loc>/talk/imps_new_york/</loc>
-      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+      <loc>/publication_types/5/</loc>
+      <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -106,6 +172,16 @@
     
       <loc>/software/software/</loc>
       <lastmod>2017-10-08T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/software/</loc>
+      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -402,23 +478,6 @@
     <url>
     
       <loc>/post/report_bets/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/post/report_performance/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -427,8 +486,7 @@
     
     <url>
     
-      <loc>/publication_types/5/</loc>
-      <lastmod>2018-06-23T00:00:00+00:00</lastmod>
+      <loc>/post/report_performance/</loc>
       <priority>0</priority>
     </url>
     
@@ -446,38 +504,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
-      <lastmod>2018-12-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/software/</loc>
-      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

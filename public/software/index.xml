@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares on Robbie C. M. van Aert</title>
+    <link>/software/</link>
+    <description>Recent content in Softwares on Robbie C. M. van Aert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright>
+    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Software</title>
+      <link>/software/software/</link>
+      <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
+      
+      <guid>/software/software/</guid>
+      <description>I am the author and developer of the R package &amp;ldquo;puniform&amp;rdquo; that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the p-uniform method (van Assen, van Aert, &amp;amp; Wicherts, 2015; van Aert, Wicherts, &amp;amp; van Assen, 2016) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis. Another method in the package is the hybrid method (van Aert &amp;amp; van Assen, 2017).</description>
+    </item>
+    
+  </channel>
+</rss>

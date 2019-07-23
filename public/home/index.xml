@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Robbie C. M. van Aert</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Robbie C. M. van Aert</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Welcome to my website I am currently a postdoctoral researcher at the department of Methodology and Statistics at Tilburg University and member of the Meta-Research Center. My research interests are statistical methods to conduct meta-analyses and methods to correct for publication bias. I am also a BITSS Catalyst advocating research transparency.</description>
+    </item>
+    
+  </channel>
+</rss>
