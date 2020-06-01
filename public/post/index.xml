@@ -5,24 +5,12 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
-    
-    <item>
-      <title>Software</title>
-      <link>/post/software/</link>
-      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
-      <guid>/post/software/</guid>
-      <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
-
-
-</description>
-    </item>
     
     <item>
       <title>Writing technical content in Academic</title>
@@ -236,6 +224,25 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;spoilers&#34;&gt;Spoilers&lt;/h3&gt;
+&lt;p&gt;Add a spoiler to a page to reveal text, such as an answer to a question, after a button is clicked.&lt;/p&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;{{&amp;lt; spoiler text=&amp;quot;Click to view the spoiler&amp;quot; &amp;gt;}}
+You found me!
+{{&amp;lt; /spoiler &amp;gt;}}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;renders as&lt;/p&gt;
+&lt;div class=&#34;spoiler &#34; &gt;
+  &lt;p&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
+      Click to view the spoiler
+    &lt;/a&gt;
+  &lt;/p&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
+    &lt;div class=&#34;card-body&#34;&gt;
+      You found me!
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;h3 id=&#34;icons&#34;&gt;Icons&lt;/h3&gt;
