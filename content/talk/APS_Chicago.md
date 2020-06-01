@@ -1,5 +1,5 @@
 +++
-date = "2016-05-29T00:00:00"
+date = 2016-05-29
 title = "Conducting meta-analyses based on p-values: Reservations and recommendations for applying p-uniform and p-curve"
 abstract = ""
 abstract_short = ""

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D Jackson | Robbie C. M. van Aert</title>
+    <link>/author/d-jackson/</link>
+      <atom:link href="/author/d-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <description>D Jackson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>D Jackson</title>
+      <link>/author/d-jackson/</link>
+    </image>
+    
+    <item>
+      <title>A new justification of the Hartung-Knapp method for random-effects meta-analysis based on weighted least squares regression</title>
+      <link>/publication/van-aert-2019-g/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2019-g/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistep estimators of the between-study variance: The relationship with the Paule-Mandel estimator</title>
+      <link>/publication/van-aert-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2018-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

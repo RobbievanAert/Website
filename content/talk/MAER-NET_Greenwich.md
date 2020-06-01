@@ -10,7 +10,7 @@ location = "Greenwich University, London, UK"
 selected = false
 math = true
 
-url_pdf = "talk/MAER-NET_2019_vanAert.pdf"
-url_slides = ""
+url_pdf = ""
+url_slides = "talk/MAER-NET_2019_vanAert.pdf"
 url_video = ""
 +++

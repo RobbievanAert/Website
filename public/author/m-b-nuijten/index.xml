@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M B Nuijten | Robbie C. M. van Aert</title>
+    <link>/author/m-b-nuijten/</link>
+      <atom:link href="/author/m-b-nuijten/index.xml" rel="self" type="application/rss+xml" />
+    <description>M B Nuijten</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>M B Nuijten</title>
+      <link>/author/m-b-nuijten/</link>
+    </image>
+    
+    <item>
+      <title>Distributions of p-values smaller than .05 in psychology: What is going on?</title>
+      <link>/publication/hartgerink-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hartgerink-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Standard analyses fail to show that US studies overestimate effect sizes in softer research</title>
+      <link>/publication/nuijten-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nuijten-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Why publishing everything is more effective than selective publishing of statistically significant results</title>
+      <link>/publication/van-assen-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/van-assen-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

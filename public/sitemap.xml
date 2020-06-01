@@ -1,530 +1,625 @@
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>/talk/lecture_princeton/</loc>
-      <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/</loc>
-      <lastmod>2019-11-04T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/maer-net_greenwich/</loc>
-      <lastmod>2019-10-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/sips_rotterdam/</loc>
-      <lastmod>2019-07-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-05-30T13:43:28+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/2/</loc>
-      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-05-30T13:43:28+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/</loc>
-      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/post/software/</loc>
+    <lastmod>2020-05-30T13:43:28+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/cis_tau2_odds/</loc>
-      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/software/software/</loc>
+    <lastmod>2020-05-30T13:43:28+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/knha_wls/</loc>
-      <lastmod>2019-05-20T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/software/</loc>
+    <lastmod>2020-05-30T13:43:28+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/meta-meta/</loc>
-      <lastmod>2019-04-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/vvsor_2019/</loc>
-      <lastmod>2019-03-21T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/r-c-m-van-aert/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/icps_2019/</loc>
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/pub_bias_q-test/</loc>
-      <lastmod>2019-02-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/ml2/</loc>
-      <lastmod>2018-12-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/e-van-der-meulen/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/colloquium_amsterdam/</loc>
-      <lastmod>2018-09-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/h-doucouliagos/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/imps_new_york/</loc>
-      <lastmod>2018-07-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/i-iwasaki/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication_types/5/</loc>
-      <lastmod>2018-06-23T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/j-geyer-klingeberg/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/dissertation/</loc>
-      <lastmod>2018-06-23T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/k-rost/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/multistep_estimator/</loc>
-      <lastmod>2018-04-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/vander-meulen-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/bitss_amsterdam/</loc>
-      <lastmod>2018-04-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/m-j-p-m-van-veldhoven/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/hybrid/</loc>
-      <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/meta-analysis/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/software/software/</loc>
-      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/military/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/software/</loc>
-      <lastmod>2017-10-08T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/p-bom/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/bitss_london/</loc>
-      <lastmod>2017-09-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/p-g-van-der-velden/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/ico_utrecht/</loc>
-      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/prospective/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/imps_zurich/</loc>
-      <lastmod>2017-07-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/psychological-resilience/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/scientific_error_tilburg/</loc>
-      <lastmod>2017-06-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/iops_leuven/</loc>
-      <lastmod>2017-06-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/havranek-2020/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/bayesian_snapshot/</loc>
-      <lastmod>2017-04-07T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/review/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/mrc_cambridge/</loc>
-      <lastmod>2017-02-10T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/t-d-stanley/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/t-havranek/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/w-r-reed/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/iops_leiden/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/bitss_berkeley/</loc>
-      <lastmod>2016-12-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2019-12-13T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/colloquium_erasmus/</loc>
-      <lastmod>2016-12-07T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/lecture_princeton/</loc>
+    <lastmod>2019-11-04T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/list_dfs/</loc>
-      <lastmod>2016-11-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/maer-net_greenwich/</loc>
+    <lastmod>2019-10-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/puniform_perspectives/</loc>
-      <lastmod>2016-09-26T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/post/writing-technical-content/</loc>
+    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/maer-net_conway/</loc>
-      <lastmod>2016-09-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/sips_rotterdam/</loc>
+    <lastmod>2019-07-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/aps_chicago/</loc>
-      <lastmod>2016-05-29T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/distributions_p-values/</loc>
-      <lastmod>2016-04-11T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/vvsor_2019/</loc>
+    <lastmod>2019-03-21T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/reply_rpp/</loc>
-      <lastmod>2016-03-04T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/icps_2019/</loc>
+    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/panel_bitss_berkeley/</loc>
-      <lastmod>2015-12-11T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/post/jupyter/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/colloquium_tilburg_2015/</loc>
-      <lastmod>2015-11-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/robbie-c.m.-van-aert/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/punifom_psych_methods/</loc>
-      <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/van-aert-2019-g/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/rpp/</loc>
-      <lastmod>2015-08-28T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/biased-sampling/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/aps_new_york/</loc>
-      <lastmod>2015-05-22T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/d-jackson/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/icps_amsterdam/</loc>
-      <lastmod>2015-03-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/effect-size-statistical/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/human_factors_amsterdam/</loc>
-      <lastmod>2014-09-14T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/h-e-m-augusteijn/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/eam_utrecht/</loc>
-      <lastmod>2014-07-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/j-m-wicherts/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/ci_gamma/</loc>
-      <lastmod>2014-06-30T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/author/m-a-l-m-van-assen/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/aps_san_francisco/</loc>
-      <lastmod>2014-05-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/nonparametric-statistical-tests/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/reply_fanelli/</loc>
-      <lastmod>2014-02-18T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/van-aert-2019-d/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/talk/colloquium_tilburg_2014/</loc>
-      <lastmod>2014-02-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/sample-size/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/publication/publish_everything/</loc>
-      <lastmod>2014-01-17T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tag/scientific-communication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/report_bets/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/van-aert-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/post/report_performance/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tag/test-validity/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/augusteijn-2019/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/author/w-viechtbauer/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquium_amsterdam/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/imps_new_york/</loc>
+    <lastmod>2018-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bitss_amsterdam/</loc>
+    <lastmod>2018-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/7/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/b-a-nosek/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2018-b/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/klein-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2018/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2018-a/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-a-klein/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/van-aert2017/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bitss_london/</loc>
+    <lastmod>2017-09-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/ico_utrecht/</loc>
+    <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/imps_zurich/</loc>
+    <lastmod>2017-07-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/scientific_error_tilburg/</loc>
+    <lastmod>2017-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/iops_leuven/</loc>
+    <lastmod>2017-06-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/mrc_cambridge/</loc>
+    <lastmod>2017-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2017/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/bitss_berkeley/</loc>
+    <lastmod>2016-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquium_erasmus/</loc>
+    <lastmod>2016-12-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/maer-net_conway/</loc>
+    <lastmod>2016-09-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/aps_chicago/</loc>
+    <lastmod>2016-05-29T00:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/deep-learning/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/demo/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/external-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/academic/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/getting-started/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/demo/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/%E5%BC%80%E6%BA%90/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/%E6%95%99%E7%A8%8B/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-j-anderson/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-l-s-veldkamp/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/wicherts-2016/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/experimental-desig/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/k-zuni/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-bakker/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/questionable-research-practices/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/anderson-2016-a/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/panel_bitss_berkeley/</loc>
+    <lastmod>2015-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquium_tilburg_2015/</loc>
+    <lastmod>2015-11-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/aps_new_york/</loc>
+    <lastmod>2015-05-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/icps_amsterdam/</loc>
+    <lastmod>2015-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-h-j-hartgerink/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/vander-ark-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/hartgerink-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/open-science-collaboration-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-a-van-der-ark/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-b-nuijten/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-assen-2015/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/open-science-collaboration/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/human_factors_amsterdam/</loc>
+    <lastmod>2014-09-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/eam_utrecht/</loc>
+    <lastmod>2014-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/aps_san_francisco/</loc>
+    <lastmod>2014-05-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquium_tilburg_2014/</loc>
+    <lastmod>2014-02-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nuijten-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-assen-2014/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
   
 </urlset>

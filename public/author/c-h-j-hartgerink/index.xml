@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C H J Hartgerink | Robbie C. M. van Aert</title>
+    <link>/author/c-h-j-hartgerink/</link>
+      <atom:link href="/author/c-h-j-hartgerink/index.xml" rel="self" type="application/rss+xml" />
+    <description>C H J Hartgerink</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>C H J Hartgerink</title>
+      <link>/author/c-h-j-hartgerink/</link>
+    </image>
+    
+    <item>
+      <title>Distributions of p-values smaller than .05 in psychology: What is going on?</title>
+      <link>/publication/hartgerink-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hartgerink-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

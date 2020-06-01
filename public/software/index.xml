@@ -1,24 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Softwares on Robbie C. M. van Aert</title>
+    <title>Softwares | Robbie C. M. van Aert</title>
     <link>/software/</link>
-    <description>Recent content in Softwares on Robbie C. M. van Aert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright>
-    <lastBuildDate>Sun, 08 Oct 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Sat, 30 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>Softwares</title>
+      <link>/software/</link>
+    </image>
     
     <item>
       <title>Software</title>
       <link>/software/software/</link>
-      <pubDate>Sun, 08 Oct 2017 00:00:00 +0200</pubDate>
-      
+      <pubDate>Sat, 30 May 2020 00:00:00 +0000</pubDate>
       <guid>/software/software/</guid>
-      <description>I am the author and developer of the R package &amp;ldquo;puniform&amp;rdquo; that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the p-uniform method (van Assen, van Aert, &amp;amp; Wicherts, 2015; van Aert, Wicherts, &amp;amp; van Assen, 2016) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis. Another method in the package is the hybrid method (van Aert &amp;amp; van Assen, 2017).</description>
+      <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I am the author and developer of the R package “puniform” that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the &lt;em&gt;p&lt;/em&gt;-uniform method (&lt;a href=&#34;/publication/van-assen-2015/&#34;&gt;van Assen, van Aert, &amp;amp; Wicherts, 2015&lt;/a&gt;; &lt;a href=&#34;/publication/van-aert-2016&#34;&gt;van Aert, Wicherts, &amp;amp; van Assen, 2016&lt;/a&gt;) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis. Another method in the package is the hybrid method (&lt;a href=&#34;/publication/van-aert-2018-b/&#34;&gt;van Aert &amp;amp; van Assen, 2018&lt;/a&gt;). This method is a meta-analysis method for combining an original study and replication and while taking into account statistical significance of the original study. The &lt;em&gt;p&lt;/em&gt;-uniform and hybrid method are based on the statistical theory that the distribution of &lt;em&gt;p&lt;/em&gt;-values is uniform at the population effect size. The third method in the package is the Snapshot Bayesian Hybrid Meta-Analysis Method (&lt;a href=&#34;/publication/van-aert-2017&#34;&gt;van Aert &amp;amp; van Assen, 2017&lt;/a&gt;). This method computes posterior probabilities at four hypothesized effect sizes (e.g., no, small, medium, and large) based on an original study and replication while taking into account statistical significance in the original study. The method can also be used for computing the required sample size of the replication akin to power analysis in null hypothesis significance testing.&lt;/p&gt;
+&lt;div id=&#34;installing-the-puniform-package&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Installing the “puniform” package&lt;/h3&gt;
+&lt;p&gt;The “puniform” package is available on &lt;a href=&#34;https://cran.r-project.org/web/packages/puniform/index.html&#34;&gt;CRAN&lt;/a&gt;, and it can be easily installed and loaded into R. The following lines of code install and load the package into a R session:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Install puniform package
+install.packages(&amp;quot;puniform&amp;quot;)
+
+### Load puniform package
+library(puniform)
+
+### Access documentation
+?puniform
+?hybrid
+?snapshot&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;installing-the-development-version-of-the-puniform-package&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Installing the development version of the “puniform” package&lt;/h3&gt;
+&lt;p&gt;It is also possible to install and load the development version of the package. This version of the package is available on &lt;a href=&#34;https://github.com/RobbievanAert/puniform&#34;&gt;Github&lt;/a&gt; and contains the latest changes. The following lines of code can be used to install and load the development version into a R session:&lt;/p&gt;
+&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;### Install devtools package
+install.packages(&amp;quot;devtools&amp;quot;)
+
+### Install puniform package
+devtools::install_github(&amp;quot;RobbievanAert/puniform&amp;quot;)
+
+### Load puniform package
+library(puniform)&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div id=&#34;web-applications&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Web applications&lt;/h3&gt;
+&lt;p&gt;I also developed web applications for applying &lt;a href=&#34;https://rvanaert.shinyapps.io/p-uniform&#34;&gt;&lt;em&gt;p&lt;/em&gt;-uniform&lt;/a&gt;, the &lt;a href=&#34;https://rvanaert.shinyapps.io/hybrid&#34;&gt;hybrid method&lt;/a&gt;, and &lt;a href=&#34;https://rvanaert.shinyapps.io/snapshot&#34;&gt;Snapshot Bayesian Hybrid Meta-Analysis Method&lt;/a&gt; for researchers who are not familiar with R.&lt;/p&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

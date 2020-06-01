@@ -10,7 +10,7 @@ location = "Rotterdam, the Netherlands"
 selected = false
 math = true
 
-url_pdf = "https://osf.io/a6udf/download"
-url_slides = ""
+url_pdf = ""
+url_slides = "https://osf.io/a6udf/download"
 url_video = ""
 +++

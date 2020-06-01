@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Presentations on Robbie C. M. van Aert</title>
+    <title>Presentations | Robbie C. M. van Aert</title>
     <link>/talk/</link>
-    <description>Recent content in Presentations on Robbie C. M. van Aert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Presentations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Fri, 13 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>Presentations</title>
+      <link>/talk/</link>
+    </image>
     
-	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <item>
+      <title>Meta-analyzing an original study and replication</title>
+      <link>/talk/iops_leiden/</link>
+      <pubDate>Fri, 13 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/iops_leiden/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Questionable research practices and publication bias</title>
       <link>/talk/lecture_princeton/</link>
       <pubDate>Mon, 04 Nov 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/lecture_princeton/</guid>
       <description></description>
     </item>
@@ -25,7 +32,6 @@
       <title>Correcting for publication bias in a meta-analysis with p-uniform*</title>
       <link>/talk/maer-net_greenwich/</link>
       <pubDate>Sat, 12 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/maer-net_greenwich/</guid>
       <description></description>
     </item>
@@ -34,7 +40,6 @@
       <title>Dealing with publication bias in a meta-analysis</title>
       <link>/talk/sips_rotterdam/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/sips_rotterdam/</guid>
       <description></description>
     </item>
@@ -43,7 +48,6 @@
       <title>Meta-analysis: Shortcomings and potential</title>
       <link>/talk/vvsor_2019/</link>
       <pubDate>Thu, 21 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/vvsor_2019/</guid>
       <description></description>
     </item>
@@ -52,7 +56,6 @@
       <title>P-uniform*: A new meta-analytic method to correct for publication bias</title>
       <link>/talk/icps_2019/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/icps_2019/</guid>
       <description></description>
     </item>
@@ -61,7 +64,6 @@
       <title>Correcting for publication bias in a meta-analysis</title>
       <link>/talk/colloquium_amsterdam/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
       <guid>/talk/colloquium_amsterdam/</guid>
       <description></description>
     </item>
@@ -70,7 +72,6 @@
       <title>Correcting for publication bias in a meta-analysis with p-uniform*</title>
       <link>/talk/imps_new_york/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>/talk/imps_new_york/</guid>
       <description></description>
     </item>
@@ -79,7 +80,6 @@
       <title>Meta-analysis and publication bias</title>
       <link>/talk/bitss_amsterdam/</link>
       <pubDate>Fri, 06 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>/talk/bitss_amsterdam/</guid>
       <description></description>
     </item>
@@ -88,7 +88,6 @@
       <title>Meta-analysis and publication bias</title>
       <link>/talk/bitss_london/</link>
       <pubDate>Wed, 13 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/bitss_london/</guid>
       <description></description>
     </item>
@@ -97,7 +96,6 @@
       <title>The consequences of publication bias and questionable research practices</title>
       <link>/talk/ico_utrecht/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ico_utrecht/</guid>
       <description></description>
     </item>
@@ -106,7 +104,6 @@
       <title>Estimating replicability of science by taking statistical significance into account</title>
       <link>/talk/imps_zurich/</link>
       <pubDate>Thu, 13 Jul 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/imps_zurich/</guid>
       <description></description>
     </item>
@@ -115,7 +112,6 @@
       <title>Estimating the replicability of science by taking statistical significance into account</title>
       <link>/talk/scientific_error_tilburg/</link>
       <pubDate>Sat, 24 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/scientific_error_tilburg/</guid>
       <description></description>
     </item>
@@ -124,7 +120,6 @@
       <title>Estimating replicability of science by taking statistical significance into account</title>
       <link>/talk/iops_leuven/</link>
       <pubDate>Wed, 14 Jun 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/iops_leuven/</guid>
       <description></description>
     </item>
@@ -133,7 +128,6 @@
       <title>Correcting for publication bias in a meta-analysis</title>
       <link>/talk/mrc_cambridge/</link>
       <pubDate>Fri, 10 Feb 2017 00:00:00 +0000</pubDate>
-      
       <guid>/talk/mrc_cambridge/</guid>
       <description></description>
     </item>
@@ -142,7 +136,6 @@
       <title>Getting it right with meta-analysis: Correcting effect size for publication bias in meta-analyses from psychology and medicine</title>
       <link>/talk/bitss_berkeley/</link>
       <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
-      
       <guid>/talk/bitss_berkeley/</guid>
       <description></description>
     </item>
@@ -151,7 +144,6 @@
       <title>Estimating the replicability of science: Accounting for statistical significance of the original study</title>
       <link>/talk/colloquium_erasmus/</link>
       <pubDate>Wed, 07 Dec 2016 00:00:00 +0000</pubDate>
-      
       <guid>/talk/colloquium_erasmus/</guid>
       <description></description>
     </item>
@@ -160,7 +152,6 @@
       <title>Conducting meta-analyses based on p-values: Reservations and recommendations for applying p-uniform and p-curve</title>
       <link>/talk/maer-net_conway/</link>
       <pubDate>Sat, 17 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>/talk/maer-net_conway/</guid>
       <description></description>
     </item>
@@ -168,8 +159,7 @@
     <item>
       <title>Conducting meta-analyses based on p-values: Reservations and recommendations for applying p-uniform and p-curve</title>
       <link>/talk/aps_chicago/</link>
-      <pubDate>Sun, 29 May 2016 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 29 May 2016 00:00:00 +0200</pubDate>
       <guid>/talk/aps_chicago/</guid>
       <description></description>
     </item>
@@ -178,7 +168,6 @@
       <title>Invited member of a panel of SSMART grant recipients discussing transparency in research</title>
       <link>/talk/panel_bitss_berkeley/</link>
       <pubDate>Fri, 11 Dec 2015 00:00:00 +0000</pubDate>
-      
       <guid>/talk/panel_bitss_berkeley/</guid>
       <description></description>
     </item>
@@ -187,7 +176,6 @@
       <title>Estimating effect size using original study and replication: A hybrid method</title>
       <link>/talk/colloquium_tilburg_2015/</link>
       <pubDate>Tue, 17 Nov 2015 00:00:00 +0000</pubDate>
-      
       <guid>/talk/colloquium_tilburg_2015/</guid>
       <description></description>
     </item>
@@ -196,7 +184,6 @@
       <title>Performance of meta-analysis methods in case of questionable research practices and publication bias</title>
       <link>/talk/aps_new_york/</link>
       <pubDate>Fri, 22 May 2015 00:00:00 +0000</pubDate>
-      
       <guid>/talk/aps_new_york/</guid>
       <description></description>
     </item>
@@ -205,7 +192,6 @@
       <title>Harmful effects of questionable research practices and publication bias on the results of meta-analysis</title>
       <link>/talk/icps_amsterdam/</link>
       <pubDate>Sat, 14 Mar 2015 00:00:00 +0000</pubDate>
-      
       <guid>/talk/icps_amsterdam/</guid>
       <description></description>
     </item>
@@ -214,7 +200,6 @@
       <title>Unbiased effect estimation in the presence of publication bias</title>
       <link>/talk/human_factors_amsterdam/</link>
       <pubDate>Sun, 14 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>/talk/human_factors_amsterdam/</guid>
       <description></description>
     </item>
@@ -223,7 +208,6 @@
       <title>Unbiased effect estimation in the presence of publication bias: A new method for meta-analysis and assessing publication bias</title>
       <link>/talk/eam_utrecht/</link>
       <pubDate>Thu, 24 Jul 2014 00:00:00 +0000</pubDate>
-      
       <guid>/talk/eam_utrecht/</guid>
       <description></description>
     </item>
@@ -232,7 +216,6 @@
       <title>Evaluation of replication</title>
       <link>/talk/aps_san_francisco/</link>
       <pubDate>Sat, 24 May 2014 00:00:00 +0000</pubDate>
-      
       <guid>/talk/aps_san_francisco/</guid>
       <description></description>
     </item>
@@ -241,7 +224,6 @@
       <title>Unbiased effect estimation in the presence of publication bias: A new method for meta-analysis and assessing publication bias</title>
       <link>/talk/colloquium_tilburg_2014/</link>
       <pubDate>Mon, 17 Feb 2014 00:00:00 +0000</pubDate>
-      
       <guid>/talk/colloquium_tilburg_2014/</guid>
       <description></description>
     </item>

@@ -1,176 +1,174 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Robbie C. M. van Aert</title>
+    <title>Robbie C. M. van Aert</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Robbie C. M. van Aert</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robbie C. M. van Aert</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>Robbie C. M. van Aert</title>
+      <link>/publication/</link>
+    </image>
     
     <item>
-      <title>Statistical properties of methods based on the Q-statistic for constructing a confidence interval for the between-study variance in meta-analysis</title>
-      <link>/publication/cis_tau2_odds/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/cis_tau2_odds/</guid>
+      <title>Longitudinal associations of psychological resilience with mental health and functioning among military personnel: A meta-analysis of prospective studies</title>
+      <link>/publication/vander-meulen-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/vander-meulen-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting guidelines for meta-analysis in economics</title>
+      <link>/publication/havranek-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/havranek-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new justification of the Hartung-Knapp method for random-effects meta-analysis based on weighted least squares regression</title>
-      <link>/publication/knha_wls/</link>
-      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/knha_wls/</guid>
+      <link>/publication/van-aert-2019-g/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2019-g/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publication bias examined in meta-analyses from psychology and medicine: A meta-meta-analysis</title>
-      <link>/publication/meta-meta/</link>
-      <pubDate>Fri, 12 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/meta-meta/</guid>
+      <link>/publication/van-aert-2019-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2019-d/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The effect of publication bias on the assessment of heterogeneity</title>
-      <link>/publication/pub_bias_q-test/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/pub_bias_q-test/</guid>
+      <title>Statistical properties of methods based on the Q-statistic for constructing a confidence interval for the between-study variance in meta-analysis</title>
+      <link>/publication/van-aert-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Many Labs 2: Investigating variation in replicability across sample and setting</title>
-      <link>/publication/ml2/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ml2/</guid>
-      <description>[[url_custom]] name = &amp;ldquo;OSF&amp;rdquo; url = &amp;ldquo;https://osf.io/8cd4r/&amp;quot; +++</description>
-    </item>
-    
-    <item>
-      <title>Meta-analysis: Shortcomings and potential</title>
-      <link>/publication/dissertation/</link>
-      <pubDate>Sat, 23 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/dissertation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multistep estimators of the between-study variance: The relationship with the Paule-Mandel estimator</title>
-      <link>/publication/multistep_estimator/</link>
-      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/multistep_estimator/</guid>
+      <title>The effect of publication bias on the Q test and assessment of heterogeneity</title>
+      <link>/publication/augusteijn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/augusteijn-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Examining reproducibility in psychology: A hybrid method for combining a statistically significant original study and a replication</title>
-      <link>/publication/hybrid/</link>
+      <link>/publication/van-aert-2018-b/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/hybrid/</guid>
+      <guid>/publication/van-aert-2018-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Many Labs 2: Investigating variation in replicability across samples and settings</title>
+      <link>/publication/klein-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/klein-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis: Shortcomings and potential</title>
+      <link>/publication/van-aert-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multistep estimators of the between-study variance: The relationship with the Paule-Mandel estimator</title>
+      <link>/publication/van-aert-2018-a/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian evaluation of effect size after replicating an original study</title>
-      <link>/publication/bayesian_snapshot/</link>
-      <pubDate>Fri, 07 Apr 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/bayesian_snapshot/</guid>
+      <link>/publication/van-aert-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conducting meta-analyses on p-values: Reservations and recommendations for applying p-uniform and p-curve</title>
+      <link>/publication/van-aert-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking</title>
-      <link>/publication/list_dfs/</link>
-      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/list_dfs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conducting meta-Analyses based on p values: Reservations and recommendations for applying p-uniform and p-curve</title>
-      <link>/publication/puniform_perspectives/</link>
-      <pubDate>Mon, 26 Sep 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/puniform_perspectives/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Distributions of p-values smaller than .05 in psychology: What is going on?</title>
-      <link>/publication/distributions_p-values/</link>
-      <pubDate>Mon, 11 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/distributions_p-values/</guid>
+      <link>/publication/wicherts-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wicherts-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Response to comment on “Estimating the reproducibility of psychological science”</title>
-      <link>/publication/reply_rpp/</link>
-      <pubDate>Fri, 04 Mar 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/reply_rpp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Meta-analysis using effect size distributions of only significant studies</title>
-      <link>/publication/punifom_psych_methods/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/punifom_psych_methods/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Estimating the reproducibility of psychological science</title>
-      <link>/publication/rpp/</link>
-      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/rpp/</guid>
+      <link>/publication/anderson-2016-a/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/anderson-2016-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing confidence intervals for Goodman and Kruskal&#39;s gamma coefficient</title>
-      <link>/publication/ci_gamma/</link>
-      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/ci_gamma/</guid>
+      <link>/publication/vander-ark-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/vander-ark-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distributions of p-values smaller than .05 in psychology: What is going on?</title>
+      <link>/publication/hartgerink-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/hartgerink-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estimating the reproducibility of psychological science</title>
+      <link>/publication/open-science-collaboration-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/open-science-collaboration-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analysis using effect size distributions of only statistically significant studies</title>
+      <link>/publication/van-assen-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/van-assen-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Standard analyses fail to show that US studies overestimate effect sizes in softer research</title>
-      <link>/publication/reply_fanelli/</link>
-      <pubDate>Tue, 18 Feb 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/reply_fanelli/</guid>
+      <link>/publication/nuijten-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/nuijten-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why publishing everything is more effective than selective publishing of statistically significant results</title>
-      <link>/publication/publish_everything/</link>
-      <pubDate>Fri, 17 Jan 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/publish_everything/</guid>
+      <link>/publication/van-assen-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/van-assen-2014/</guid>
       <description></description>
     </item>
     

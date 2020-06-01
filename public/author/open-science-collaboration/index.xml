@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Science Collaboration | Robbie C. M. van Aert</title>
+    <link>/author/open-science-collaboration/</link>
+      <atom:link href="/author/open-science-collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <description>Open Science Collaboration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>Open Science Collaboration</title>
+      <link>/author/open-science-collaboration/</link>
+    </image>
+    
+    <item>
+      <title>Estimating the reproducibility of psychological science</title>
+      <link>/publication/open-science-collaboration-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/open-science-collaboration-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L A van der Ark | Robbie C. M. van Aert</title>
+    <link>/author/l-a-van-der-ark/</link>
+      <atom:link href="/author/l-a-van-der-ark/index.xml" rel="self" type="application/rss+xml" />
+    <description>L A van der Ark</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>L A van der Ark</title>
+      <link>/author/l-a-van-der-ark/</link>
+    </image>
+    
+    <item>
+      <title>Comparing confidence intervals for Goodman and Kruskal&#39;s gamma coefficient</title>
+      <link>/publication/vander-ark-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/vander-ark-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

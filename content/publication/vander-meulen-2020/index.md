@@ -1,0 +1,14 @@
+---
+title: "Longitudinal associations of psychological resilience with mental health and functioning among military personnel: A meta-analysis of prospective studies"
+date: 2020-01-01
+publishDate: 2020-05-24T14:15:54.549523Z
+authors: ["E van der Meulen", "P G van der Velden", "**R C M van Aert**", "M J P M van Veldhoven"]
+publication_types: ["2"]
+abstract: "Background Military personnel are exposed to severe stressors across different stages of their career that may have a negative impact on mental health and functioning. It is often suggested that psychological resilience plays an important role in the maintenance and/or enhancement of their mental health and functioning under these circumstances. Method A systematic literature search was conducted using PsycINFO, MEDLINE, PsycARTICLES, Psychology and Behavioral Sciences Collection, Web of Science, and PubMed up to August of 2019 retrieving 3,698 reports. Schmidt and Hunter meta-analytical techniques were used to assess the predictive value of psychological resilience on ten different military relevant mental health and functioning outcomes. Multivariate meta-analysis assessed the origin of heterogeneity among bivariate effect sizes. Results The effect sizes of 40 eligible peer-reviewed papers covering 40 unique samples were included in the meta-analysis. Seventy-eight percent of these studies were published after 2010 and were predominantly conducted in western countries. Bivariate effect sizes were low to medium (absolute values: 0.08 to 0.36) and multivariate effect sizes, adjusting for across studies varying sets of covariates, were low to trivial (absolute values: 0.02 to 0.08). Moderator analyses using multivariate meta-analysis on 60 bivariate effect sizes, revealed no significant effect of type of psychological resilience scale, time-lag, and career stage. Conclusions The current review found no indications that different conceptualizations of psychological resilience across a variety of research designs, are strongly predictive of mental health and functioning among military personnel. Future directions (moderator/mediator models, stressor type specifications, and directionality) for prospective studies are discussed. Our results question the usefulness of interventions to enhance the resilience of soldiers to improve their mental health and functioning."
+featured: false
+publication: "*Social Science & Medicine*, *255*"
+tags: ["Meta-analysis", "Military", "Prospective", "Psychological resilience", "Review"]
+url_pdf: "http://www.sciencedirect.com/science/article/pii/S0277953620300332"
+doi: "10.1016/j.socscimed.2020.112814"
+---
+

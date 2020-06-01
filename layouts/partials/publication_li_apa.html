@@ -1,5 +1,4 @@
 <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
-  <i class="fa fa-file-text-o pub-icon" aria-hidden="true"></i>
   <span itemprop="author">
     {{ with .Params.authors }}
 {{- delimit . ", " | markdownify -}}
@@ -8,6 +7,6 @@
   ({{- .Date.Format "2006" -}}).
   <span itemprop="name">{{ .Title }}</span>.&nbsp
     {{- .Params.publication | markdownify -}}.
-    doi:&nbsp{{- .Params.publication_short | markdownify -}}.
-  <p>{{ partial "publication_links" (dict "content" . "is_list" 1) }}</p>
+    doi:&nbsp <a href=https://doi.org/{{- .Params.doi | markdownify -}}>{{- .Params.doi | markdownify -}}</a>.
+  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 </div>

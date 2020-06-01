@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C L S Veldkamp | Robbie C. M. van Aert</title>
+    <link>/author/c-l-s-veldkamp/</link>
+      <atom:link href="/author/c-l-s-veldkamp/index.xml" rel="self" type="application/rss+xml" />
+    <description>C L S Veldkamp</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>C L S Veldkamp</title>
+      <link>/author/c-l-s-veldkamp/</link>
+    </image>
+    
+    <item>
+      <title>Degrees of freedom in planning, running, analyzing, and reporting psychological studies: A checklist to avoid p-hacking</title>
+      <link>/publication/wicherts-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/wicherts-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

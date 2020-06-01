@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test Validity | Robbie C. M. van Aert</title>
+    <link>/tag/test-validity/</link>
+      <atom:link href="/tag/test-validity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Test Validity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>Test Validity</title>
+      <link>/tag/test-validity/</link>
+    </image>
+    
+    <item>
+      <title>The effect of publication bias on the Q test and assessment of heterogeneity</title>
+      <link>/publication/augusteijn-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/augusteijn-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
