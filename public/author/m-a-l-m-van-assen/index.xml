@@ -5,12 +5,28 @@
     <link>/author/m-a-l-m-van-assen/</link>
       <atom:link href="/author/m-a-l-m-van-assen/index.xml" rel="self" type="application/rss+xml" />
     <description>M A L M van Assen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>M A L M van Assen</title>
       <link>/author/m-a-l-m-van-assen/</link>
     </image>
+    
+    <item>
+      <title>Correcting for publication bias in a meta-analysis with the p-uniform* method</title>
+      <link>/publication/van-aert-2019-a/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The meta-plot: A graphical tool for interpreting the results of a meta-analysis</title>
+      <link>/publication/van-assen-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/van-assen-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Publication bias examined in meta-analyses from psychology and medicine: A meta-meta-analysis</title>
