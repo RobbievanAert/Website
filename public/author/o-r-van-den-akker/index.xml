@@ -5,7 +5,7 @@
     <link>/author/o-r-van-den-akker/</link>
       <atom:link href="/author/o-r-van-den-akker/index.xml" rel="self" type="application/rss+xml" />
     <description>O R van den Akker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>O R van den Akker</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>How robust is the evidence for cleansing effects?</title>
-      <link>/publication/ross-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/ross-2020/</guid>
+      <title>The meta-plot: A graphical tool for interpreting the results of a meta-analysis</title>
+      <link>/publication/van-assen-2020/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/van-assen-2020/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The meta-plot: A graphical tool for interpreting the results of a meta-analysis</title>
-      <link>/publication/van-assen-2020/</link>
+      <title>How robust is the evidence for cleansing effects?</title>
+      <link>/publication/ross-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/van-assen-2020/</guid>
+      <guid>/publication/ross-2020/</guid>
       <description></description>
     </item>
     

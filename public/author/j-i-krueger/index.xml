@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J I Krueger | Robbie C. M. van Aert</title>
+    <link>/author/j-i-krueger/</link>
+      <atom:link href="/author/j-i-krueger/index.xml" rel="self" type="application/rss+xml" />
+    <description>J I Krueger</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>J I Krueger</title>
+      <link>/author/j-i-krueger/</link>
+    </image>
+    
+    <item>
+      <title>Deciding what to replicate: A formal definition of &#39;replication value&#39; and a decision model for replication study selection</title>
+      <link>/publication/isager-2021/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/isager-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

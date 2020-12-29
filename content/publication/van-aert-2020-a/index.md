@@ -1,6 +1,6 @@
 ---
 title: "Study specific prediction intervals for random-effects meta-analysis"
-date: 2020-01-01
+date: 2021-04-01
 publishDate: 2020-09-13T12:34:22.377241Z
 authors: ["**R C M van Aert**", "C H Schmid", "D Svensson", "D Jackson"]
 publication_types: ["2"]

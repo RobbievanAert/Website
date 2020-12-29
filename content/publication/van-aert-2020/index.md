@@ -1,6 +1,6 @@
 ---
 title: "Analyzing data of a multi-lab replication project with individual participant data meta-analysis: A tutorial"
-date: 2020-01-01
+date: 2021-04-01
 publishDate: 2020-09-13T12:34:22.370257Z
 authors: ["**R C M van Aert**"]
 publication_types: ["2"]

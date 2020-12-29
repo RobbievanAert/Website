@@ -3,13 +3,243 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/talk/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <loc>/publication/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-c-m-van-aert/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2020/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2021/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/c-h-schmid/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2019-a/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d-jackson/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d-svensson/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-mulder/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-a-l-m-van-assen/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-08-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2020-a/</loc>
+    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-h-stoevenbelt/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-olsson-collentine/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e-l-uhlmann/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h-e-m-augusteijn/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-m-wicherts/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-b-nuijten/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-bakker/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-schweinsberg/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/o-r-van-den-akker/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/schweinsberg-2020/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-assen-2020/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/6/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-desoto/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a-e-van-t-veer/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d-lakens/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/isager-2021/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h-niemeyer/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/i-ropovik/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j-i-krueger/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-j-brandt/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-perugini/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/m-vranka/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/p-m-isager/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/van-aert-2021-a/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r-giner-sorolla/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/s-bahnik/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/brohmer-2021/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/h-brohmer/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/k-corcoran/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/l-v-eckerstorfer/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/colloquium_groningen/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2020-11-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/talk/scp_den_haag/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,72 +258,12 @@
   </url>
   
   <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/r-c-m-van-aert/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-h-stoevenbelt/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/a-olsson-collentine/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/van-aert-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/c-h-schmid/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/c-knaevelsrud/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication/van-aert-2019-a/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d-jackson/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/d-svensson/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/d-uelsmann/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/e-l-uhlmann/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -104,16 +274,6 @@
   
   <url>
     <loc>/author/h-doucouliagos/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/h-e-m-augusteijn/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/h-niemeyer/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,11 +293,6 @@
   </url>
   
   <url>
-    <loc>/author/j-m-wicherts/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/k-rost/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -148,27 +303,7 @@
   </url>
   
   <url>
-    <loc>/author/m-a-l-m-van-assen/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-b-nuijten/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-bakker/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/m-j-p-m-van-veldhoven/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/m-schweinsberg/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -184,11 +319,6 @@
   
   <url>
     <loc>/tag/military/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/o-r-van-den-akker/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,11 +353,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/r-r-ross/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -248,16 +373,6 @@
   </url>
   
   <url>
-    <loc>/publication/schweinsberg-2020/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/van-aert-2020-a/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/t-d-stanley/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -269,11 +384,6 @@
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/van-assen-2020/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

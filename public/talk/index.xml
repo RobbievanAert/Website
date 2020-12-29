@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 27 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>Presentations</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Correcting for publication bias in a meta-analysis with p-uniform*</title>
+      <link>/talk/colloquium_groningen/</link>
+      <pubDate>Mon, 02 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/colloquium_groningen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analyse: Beperkingen en potentieel</title>
+      <link>/talk/scp_den_haag/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/scp_den_haag/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Uncertainty in research and its consequences</title>

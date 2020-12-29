@@ -1,6 +1,6 @@
 ---
 title: "Correcting for publication bias in a meta-analysis with the p-uniform* method"
-date: 2020-01-01
+date: 2021-04-01
 publishDate: 2020-09-13T12:34:22.380231Z
 authors: ["**R C M Van Aert**", "M A L M Van Assen"]
 publication_types: ["2"]

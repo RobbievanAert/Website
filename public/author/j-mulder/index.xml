@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J Mulder | Robbie C. M. van Aert</title>
+    <link>/author/j-mulder/</link>
+      <atom:link href="/author/j-mulder/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Mulder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
+      <title>J Mulder</title>
+      <link>/author/j-mulder/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian hypothesis testing and estimation under the marginalized random-effects meta-analysis model</title>
+      <link>/publication/van-aert-2021/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,6 +6,6 @@ authors: ["R R Ross", "**R C M van Aert**", "O R van den Akker", "M van Elk"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Manuscript submitted for publication"
+publication: "*Behavioral and Brain Sciences*"
 ---
 

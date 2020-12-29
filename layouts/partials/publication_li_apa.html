@@ -7,6 +7,6 @@
   ({{- .Date.Format "2006" -}}).
   <span itemprop="name">{{ .Title }}</span>.&nbsp
     {{- .Params.publication | markdownify -}}.
-    doi:&nbsp <a href=https://doi.org/{{- .Params.doi | markdownify -}}>{{- .Params.doi | markdownify -}}</a>.
-  <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
+    doi: <a href=https://doi.org/{{- .Params.doi | markdownify -}}>{{- .Params.doi | markdownify -}}</a>
+    <p>{{ partial "page_links" (dict "page" . "is_list" 1) }}</p>
 </div>
