@@ -6,6 +6,5 @@ authors: ["M Schweinsberg", "...", "**R C M van Aert**", "...", "E L Uhlmann"]
 publication_types: ["2"]
 abstract: ""
 featured: false
-publication: "Manuscript submitted for publication"
+publication: "*Organizational Behavior and Human Decision Processes*"
 ---
-

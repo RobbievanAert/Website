@@ -5,12 +5,28 @@
     <link>/talk/</link>
       <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Presentations</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>Presentations</title>
       <link>/talk/</link>
     </image>
+    
+    <item>
+      <title>Comparing the prevalence of statistical reporting inconsistencies in COVID-19 preprints and matched controls: A Registered Report</title>
+      <link>/talk/covid_tilburg/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/covid_tilburg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyzing data of a multi-lab replication project with individual participant data meta-analysis: A tutorial</title>
+      <link>/talk/bitss_online/</link>
+      <pubDate>Thu, 07 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/talk/bitss_online/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Correcting for publication bias in a meta-analysis with p-uniform*</title>

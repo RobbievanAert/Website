@@ -5,7 +5,7 @@
     <link>/author/m-bakker/</link>
       <atom:link href="/author/m-bakker/index.xml" rel="self" type="application/rss+xml" />
     <description>M Bakker</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>M Bakker</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Meta-analyzing the multiverse: A peek under the hood of selective reporting</title>
+      <link>/publication/olsson-collentine-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/olsson-collentine-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The meta-plot: A graphical tool for interpreting the results of a meta-analysis</title>
       <link>/publication/van-assen-2020/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/van-assen-2020/</guid>
       <description></description>
     </item>

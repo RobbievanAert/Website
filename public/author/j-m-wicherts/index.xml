@@ -5,7 +5,7 @@
     <link>/author/j-m-wicherts/</link>
       <atom:link href="/author/j-m-wicherts/index.xml" rel="self" type="application/rss+xml" />
     <description>J M Wicherts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© All content CC BY-NC-SA 4.0 except when otherwise indicated</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu65ef30ecd228e437b2d8ffc640229407_7269_512x512_fill_lanczos_center_2.png</url>
       <title>J M Wicherts</title>
@@ -13,9 +13,33 @@
     </image>
     
     <item>
+      <title>Comparing the prevalence of statistical reporting inconsistencies in COVID-19 preprints and matched controls: A Registered Report. Conditionally accepted</title>
+      <link>/publication/van-aert-2021-b/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2021-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correcting for outcome reporting bias in a meta-analysis: A meta-regression approach</title>
+      <link>/publication/van-aert-2021-c/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/van-aert-2021-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meta-analyzing the multiverse: A peek under the hood of selective reporting</title>
+      <link>/publication/olsson-collentine-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/olsson-collentine-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The meta-plot: A graphical tool for interpreting the results of a meta-analysis</title>
       <link>/publication/van-assen-2020/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>/publication/van-assen-2020/</guid>
       <description></description>
     </item>

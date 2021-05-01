@@ -13,4 +13,3 @@ links:
 - name: OSF
   url: https://osf.io/x7897/
 ---
-
