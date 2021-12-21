@@ -9,7 +9,19 @@ source("publications_files/entries.txt")
 
 ### Submitted papers
 
+```{r submitted, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"submitted"] == 1)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
 ### In press
+
+```{r inpress, results = "asis", echo = FALSE}
+tmp <- subset(entries, is.na(entries[ ,"year"]))
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
 
 ### 2021
 
@@ -19,3 +31,58 @@ tmp <- subset(entries, entries[ ,"year"] == "2021" & entries[ ,"submitted"] == 0
 cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
 
+### 2020
+
+```{r 2020, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2020" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2019
+
+```{r 2019, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2019" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2018
+
+```{r 2018, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2018" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2017
+
+```{r 2017, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2017" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2016
+
+```{r 2016, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2016" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2015
+
+```{r 2015, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2015" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2014
+
+```{r 2014, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2014" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
