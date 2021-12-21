@@ -1,0 +1,21 @@
+---
+date: "2014-04-09"
+title: "Publications"
+---
+
+```{r load, echo = FALSE}
+source("publications_files/entries.txt")
+```
+
+### Submitted papers
+
+### In press
+
+### 2021
+
+```{r 2021, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2021" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
