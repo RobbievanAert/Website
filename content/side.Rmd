@@ -1,0 +1,24 @@
+---
+date: "2014-04-09"
+title: "Side projects"
+---
+
+In my spare time, I like to do sports such as playing tennis and running. I also frequently play around with projects where I apply statistics to sports data. Two of these projects are described below.
+
+## Predicting the winner of tennis matches
+
+I developed a statistical model to predict the winner of professional tennis matches. A large part of this project was creating a large-scale database with tennis players and matches. This database is updated on a daily basis using a [Raspberry Pi](https://www.raspberrypi.com/) to get the most recent results and include these in the predictions. Setting up this entire infrastructure was actually more time-consuming than selecting the best predicting statistical model. 
+
+Many different statistical models were tried to get the best possible predictions. Variables that are included in these models were among others player's past performance on a particular surface (some players are better on grass than clay), time spent on court during the last week, head-to-head results of two players, and a newly created [ELO-rating](https://en.wikipedia.org/wiki/Elo_rating_system) for tennis players. I also tried many different machine learning techniques (e.g., logistic regression, random forests, neural networks). It turned out that performance of logistic regression was comparable to those of the more complicated techniques. 
+
+My model was able predict the winner of matches a bit better than the bookmakers, but the margin was small and you definitely are not going to become rich very fast ;-). One of the reasons is that the bookmakers, of course, use the same information (and maybe even more) for determining the odds. Furthermore, the bookmakers mainly make profit by the "[overround](https://en.wikipedia.org/wiki/Mathematics_of_bookmaking#Overround_on_multiple_bets)". That is, the sum of the probabilities of two players winning the match is larger than 1.
+
+Future work on this project may be predicting the winner of a tournament rather than predicting the winner of a single match. The statistical model returns probabilities of both players to win a match, so these probabilities can be used to simulate tournaments. These simulated tournaments can be used to determine how likely it is that a player wins a tournament and also how likely it is that a player proceeds to a particular round of the tournament.
+
+## Optimal race strategy for car racing
+
+Another project I am currently working on is determining the optimal race strategy for car racing. This is an optimization problem since the best strategy needs to be selected to minimize the time it takes to complete the required number of laps. 
+
+I make use of data of Formula 1, because many data are available of past Formula 1 races and race strategy is more complicated than of other race series. For example, Formula 1 drivers need to use at least two different tyre compounds during the race such that they have to make a pitstop. Tyre compounds differ in terms of the degradation, so the goal of the strategy is to make sure that the driver does drive exactly the optimum number of labs on each tyre compound. Other factors that need to be taken into account are among others the possibility that a driver is stuck behind a slower car and the deployment of a safety car in case of an accident on track.
+
+The race strategy is determined using a simulation based approach that simulates many races to figure out what the optimal race strategy is. Future work will extend the approach such that the race strategy is updated during the race by incorporating events that happen on track. 

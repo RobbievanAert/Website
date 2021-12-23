@@ -1,0 +1,37 @@
+---
+date: "2014-04-09"
+title: "Software"
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>I am the author and developer of the R package “puniform” that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the <em>p</em>-uniform method (<a href="/publication/van-assen-2015/">van Assen, van Aert, &amp; Wicherts, 2015</a>; <a href="/publication/van-aert-2016">van Aert, Wicherts, &amp; van Assen, 2016</a>) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis.</p>
+<p>Another method in the package is the hybrid method (<a href="/publication/van-aert-2018-b/">van Aert &amp; van Assen, 2018</a>). This method is a meta-analysis method for combining an original study and replication and while taking into account statistical significance of the original study. The <em>p</em>-uniform and hybrid method are based on the statistical theory that the distribution of <em>p</em>-values is uniform at the population effect size.</p>
+<p>The third method in the package is the Snapshot Bayesian Hybrid Meta-Analysis Method (<a href="/publication/van-aert-2017">van Aert &amp; van Assen, 2017</a>). This method computes posterior probabilities at four hypothesized effect sizes (e.g., no, small, medium, and large) based on an original study and replication while taking into account statistical significance in the original study. The method can also be used for computing the required sample size of the replication akin to power analysis in null hypothesis significance testing.</p>
+<div id="installing-the-puniform-package" class="section level3">
+<h3>Installing the “puniform” package</h3>
+<p>The “puniform” package is available on <a href="https://cran.r-project.org/web/packages/puniform/index.html">CRAN</a>, and it can be easily installed and loaded into R. The following lines of code install and load the package into a R session:</p>
+<pre class="r"><code>### Install puniform package
+install.packages(&quot;puniform&quot;)
+### Load puniform package
+library(puniform)
+### Access documentation
+?puniform
+?hybrid
+?snapshot</code></pre>
+</div>
+<div id="installing-the-development-version-of-the-puniform-package" class="section level3">
+<h3>Installing the development version of the “puniform” package</h3>
+<p>It is also possible to install and load the development version of the package. This version of the package is available on <a href="https://github.com/RobbievanAert/puniform">Github</a> and contains the latest changes. The following lines of code can be used to install and load the development version into a R session:</p>
+<pre class="r"><code>### Install devtools package
+install.packages(&quot;devtools&quot;)
+### Install puniform package
+devtools::install_github(&quot;RobbievanAert/puniform&quot;)
+### Load puniform package
+library(puniform)</code></pre>
+</div>
+<div id="web-applications" class="section level3">
+<h3>Web applications</h3>
+<p>I also developed web applications for applying <a href="https://rvanaert.shinyapps.io/p-uniform"><em>p</em>-uniform</a>, the <a href="https://rvanaert.shinyapps.io/hybrid">hybrid method</a>, and <a href="https://rvanaert.shinyapps.io/snapshot">Snapshot Bayesian Hybrid Meta-Analysis Method</a> for researchers who are not familiar with R.</p>
+</div>

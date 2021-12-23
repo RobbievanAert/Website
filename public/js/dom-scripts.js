@@ -115,9 +115,10 @@
 
   function defaultDarkTheme() {
     if (localStorage.getItem('darkTheme') == null) {
-      persistTheme('true');
-      checkbox.checked = true;
+      persistTheme('false');
+      checkbox.checked = false;
     }
+
   }
 
   checkbox.addEventListener('change', function () {

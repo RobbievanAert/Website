@@ -1,7 +1,7 @@
-baseURL: /
+baseURL: http://www.robbievanaert.com/
 languageCode: en-us
 defaultContentLanguage: en
-title: Cupper
+title: Robbie C.M. van Aert
 theme: "cupper-hugo-theme"
 ignoreFiles:
   - \.Rmd$
@@ -31,7 +31,7 @@ params:
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  defaultDarkTheme: true
+  defaultDarkTheme: false
   moveFooterToHeader: false
   navTitleText: Robbie C.M. van Aert
   logoAlt: An alternative text description of the logo
@@ -60,7 +60,7 @@ menu:
       url: /presentations/
       weight: 4
     - name: Curriculum Vitae
-      url: /cv/CV R.C.M. van Aert.pdf
+      url: /cv/cv_vanaert.pdf
       weight: 5
     - name: Side projects
       url: /side/

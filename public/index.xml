@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Cupper</title>
+    <title>Home on Robbie C.M. van Aert</title>
     <link>/</link>
-    <description>Recent content in Home on Cupper</description>
+    <description>Recent content in Home on Robbie C.M. van Aert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -118,7 +118,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/presentations/</guid>
-      <description>2021van Aert, R. C. M., Schmid, C. H., Svensson, D., &amp;amp; Jackson, D. (2021). Study specific prediction intervals for random-effects meta-analysis: A tutorial. Research Synthesis Methods, 12(4), 429-447. doi: 10.1002/jrsm.1490 PDF OSFIsager, P. M., van Aert, R. C. M., Bahn{&#39;{i}}k, S., Brandt, M. J., DeSoto, A., Giner-Sorolla, R., Krueger, J. I., Perugini, M., Ropovik, I., {van ’t Veer}, A. E., Vranka, M., &amp;amp; Lakens, D. (NA).</description>
+      <description>2021Analyzing data of a multi-lab replication project with individual participant data meta-analysis: A tutorial. 9th Annual Meeting of Berkeley Initiative for Transparency in the Social Science. Berkeley, USA. Slides VideoComparing the prevalence of statistical reporting inconsistencies in COVID-19 preprints and matched controls: A Registered Report. Invited presentation at the Webinar Series on COVID-19 organized by the School of Social and Behavioral Sciences of Tilburg University. Tilburg University, the Netherlands.</description>
     </item>
     
     <item>
@@ -127,7 +127,7 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/publications/</guid>
-      <description>Submitted papersIn press2021van Aert, R. C. M., Schmid, C. H., Svensson, D., &amp;amp; Jackson, D. (2021). Study specific prediction intervals for random-effects meta-analysis: A tutorial. Research Synthesis Methods, 12(4), 429-447. doi: 10.1002/jrsm.1490 PDF OSFMulder, J., Williams, D. R., Gu, X., Tomarken, A., Boing-Messing, F., …, van Aert, R. C. M., …, &amp;amp; van Lissa, C. (2021). BFpack: Flexible Bayes factor testing of scientific theories in R.</description>
+      <description>Submitted papersvan Aert, R. C. M. &amp;amp; van Assen, M. A. L. M. (2021). Correcting for publication bias in a meta-analysis with the p-uniform* method. Manuscript submitted for publication. doi: 10.31222/osf.io/zqjr9 PDF OSFvan Assen, M. A. L. M., van den Akker, O. R., Augusteijn, H. E. M., Bakker, M., Nuijten, M. B., …, &amp;amp; van Aert, R. C. M. (2021). The meta-plot: A graphical tool for interpreting the results of a meta-analysis.</description>
     </item>
     
     <item>
@@ -136,10 +136,8 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/side/</guid>
-      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
-It makes use of a variety of open source projects including:
- https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.
-2021  van Aert, R.C.M. &amp;amp; Mulder, J. Bayesian hypothesis testing and estimation under the marginalized random-effects meta-analysis model (2021). Psychonomic Bulletin &amp;amp; Review.  </description>
+      <description>In my spare time, I like to do sports such as playing tennis and running. I also frequently play around with projects where I apply statistics to sports data. Two of these projects are described below.
+Predicting the winner of tennis matchesI developed a statistical model to predict the winner of professional tennis matches. A large part of this project was creating a large-scale database with tennis players and matches.</description>
     </item>
     
     <item>
@@ -148,8 +146,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>/software/</guid>
-      <description>I am the author and developer of the R package &amp;ldquo;puniform&amp;rdquo; that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the p-uniform method (van Assen, van Aert, &amp;amp; Wicherts, 2015; van Aert, Wicherts, &amp;amp; van Assen, 2016) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis.
-Another method in the package is the hybrid method (van Aert &amp;amp; van Assen, 2018).</description>
+      <description>I am the author and developer of the R package “puniform” that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the p-uniform method (van Assen, van Aert, &amp;amp; Wicherts, 2015; van Aert, Wicherts, &amp;amp; van Assen, 2016) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis.</description>
     </item>
     
     <item>
