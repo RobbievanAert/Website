@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>typesetting on Robbie C.M. van Aert</title>
-    <link>/tags/typesetting/</link>
+    <link>http://www.robbievanaert.com/tags/typesetting/</link>
     <description>Recent content in typesetting on Robbie C.M. van Aert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/typesetting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://www.robbievanaert.com/tags/typesetting/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Katex Math Typesetting</title>
-      <link>/katex-math-typesetting/</link>
+      <link>http://www.robbievanaert.com/katex-math-typesetting/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/katex-math-typesetting/</guid>
+      <guid>http://www.robbievanaert.com/katex-math-typesetting/</guid>
       <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
 Note: Use the online reference of supported TeX functions.
 Some math:

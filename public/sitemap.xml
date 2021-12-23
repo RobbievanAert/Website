@@ -2,124 +2,124 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/2020-12-01-r-rmarkdown/</loc>
+    <loc>http://www.robbievanaert.com/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/plot/</loc>
+    <loc>http://www.robbievanaert.com/tags/plot/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/r-markdown/</loc>
+    <loc>http://www.robbievanaert.com/tags/r-markdown/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/regression/</loc>
+    <loc>http://www.robbievanaert.com/tags/regression/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>http://www.robbievanaert.com/tags/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/cmd-test/</loc>
+    <loc>http://www.robbievanaert.com/cmd-test/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/issue/</loc>
+    <loc>http://www.robbievanaert.com/tags/issue/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/multiple-expandable-test/</loc>
+    <loc>http://www.robbievanaert.com/multiple-expandable-test/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/special-character-test/</loc>
+    <loc>http://www.robbievanaert.com/special-character-test/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>http://www.robbievanaert.com/tags/hugo/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/katex/</loc>
+    <loc>http://www.robbievanaert.com/tags/katex/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/katex-math-typesetting/</loc>
+    <loc>http://www.robbievanaert.com/katex-math-typesetting/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/math/</loc>
+    <loc>http://www.robbievanaert.com/tags/math/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/typesetting/</loc>
+    <loc>http://www.robbievanaert.com/tags/typesetting/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/cupper-typography/</loc>
+    <loc>http://www.robbievanaert.com/cupper-typography/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/markdown/</loc>
+    <loc>http://www.robbievanaert.com/tags/markdown/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/cupper-shortcodes/</loc>
+    <loc>http://www.robbievanaert.com/cupper-shortcodes/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/shortcodes/</loc>
+    <loc>http://www.robbievanaert.com/tags/shortcodes/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/nasa/</loc>
+    <loc>http://www.robbievanaert.com/tags/nasa/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/nasa-images/</loc>
+    <loc>http://www.robbievanaert.com/nasa-images/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/quotes/</loc>
+    <loc>http://www.robbievanaert.com/tags/quotes/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/quotes-by-carl-jung/</loc>
+    <loc>http://www.robbievanaert.com/quotes-by-carl-jung/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>http://www.robbievanaert.com/</loc>
+    <lastmod>2021-12-23T12:53:37+01:00</lastmod>
+  </url><url>
+    <loc>http://www.robbievanaert.com/tags/command-line/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/command-line/</loc>
+    <loc>http://www.robbievanaert.com/creating-a-new-theme/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/creating-a-new-theme/</loc>
+    <loc>http://www.robbievanaert.com/tags/theme/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/theme/</loc>
+    <loc>http://www.robbievanaert.com/presentations/</loc>
+    <lastmod>2021-12-23T12:53:37+01:00</lastmod>
+  </url><url>
+    <loc>http://www.robbievanaert.com/publications/</loc>
+    <lastmod>2021-12-23T12:53:37+01:00</lastmod>
+  </url><url>
+    <loc>http://www.robbievanaert.com/side/</loc>
+    <lastmod>2021-12-23T12:53:37+01:00</lastmod>
+  </url><url>
+    <loc>http://www.robbievanaert.com/software/</loc>
+    <lastmod>2021-12-23T12:53:37+01:00</lastmod>
+  </url><url>
+    <loc>http://www.robbievanaert.com/goisforlovers/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/presentations/</loc>
+    <loc>http://www.robbievanaert.com/tags/fun/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/publications/</loc>
-    <lastmod>2021-12-21T15:24:06+01:00</lastmod>
-  </url><url>
-    <loc>/side/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/software/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/goisforlovers/</loc>
+    <loc>http://www.robbievanaert.com/hugoisforlovers/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/fun/</loc>
+    <loc>http://www.robbievanaert.com/tags/git/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/hugoisforlovers/</loc>
+    <loc>http://www.robbievanaert.com/tags/go/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>http://www.robbievanaert.com/tags/templates/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/go/</loc>
+    <loc>http://www.robbievanaert.com/tags/jekyll/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/templates/</loc>
+    <loc>http://www.robbievanaert.com/migrate-from-jekyll/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/tags/jekyll/</loc>
+    <loc>http://www.robbievanaert.com/tags/migration/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url><url>
-    <loc>/migrate-from-jekyll/</loc>
-    <lastmod>2021-12-21T11:18:39+01:00</lastmod>
-  </url><url>
-    <loc>/tags/migration/</loc>
-    <lastmod>2021-12-21T11:18:39+01:00</lastmod>
-  </url><url>
-    <loc>/post/</loc>
+    <loc>http://www.robbievanaert.com/post/</loc>
     <lastmod>2021-12-21T11:18:39+01:00</lastmod>
   </url>
 </urlset>

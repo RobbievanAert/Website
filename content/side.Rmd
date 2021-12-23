@@ -1,6 +1,6 @@
 ---
 date: "2014-04-09"
-title: "Side projects"
+title: "Side Projects"
 ---
 
 In my spare time, I like to do sports such as playing tennis and running. I also frequently play around with projects where I apply statistics to sports data. Two of these projects are described below.

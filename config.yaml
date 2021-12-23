@@ -62,7 +62,7 @@ menu:
     - name: Curriculum Vitae
       url: /cv/cv_vanaert.pdf
       weight: 5
-    - name: Side projects
+    - name: Side Projects
       url: /side/
       weight: 6
 
