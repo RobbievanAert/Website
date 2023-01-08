@@ -24,7 +24,7 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       
       <guid>http://www.robbievanaert.com/cmd-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/42
-Line 1 Line 2 Line 3  </description>
+Line 1Line 2Line 3</description>
     </item>
     
     <item>
@@ -34,7 +34,7 @@ Line 1 Line 2 Line 3  </description>
       
       <guid>http://www.robbievanaert.com/multiple-expandable-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
- expandable 1     Same inner text.    expandable 2     Same inner text.    expandable 3     Different inner text.   </description>
+expandable 1Same inner text.expandable 2Same inner text.expandable 3Different inner text.</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@ $$\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ $$ \varphi = 
       <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
       
       <guid>http://www.robbievanaert.com/cupper-typography/</guid>
-      <description>Headings ## Heading 2 ### Heading 3 #### Heading 4 ##### Heading 5 ###### Heading 6  Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic* _This will also be italic_ **This text will be bold** __This will also be bold__ _You **can** combine them_  This text will be italic
+      <description>Headings ## Heading 2### Heading 3#### Heading 4##### Heading 5###### Heading 6 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic*_This will also be italic_**This text will be bold**__This will also be bold___You **can** combine them_ This text will be italic
 This will also be italic
 This text will be bold
 This will also be bold</description>
@@ -79,7 +79,7 @@ This will also be bold</description>
       <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
       
       <guid>http://www.robbievanaert.com/cupper-shortcodes/</guid>
-      <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. {{&amp;lt; /blockquote &amp;gt;}}   Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
+      <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}}Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.{{&amp;lt; /blockquote &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
     </item>
     
     <item>
@@ -89,7 +89,7 @@ This will also be bold</description>
       
       <guid>http://www.robbievanaert.com/nasa-images/</guid>
       <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.
- The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.    The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
+The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
     </item>
     
     <item>
@@ -98,7 +98,7 @@ This will also be bold</description>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
       <guid>http://www.robbievanaert.com/quotes-by-carl-jung/</guid>
-      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity. &amp;mdash; Carl Jung   The least of things with a meaning is worth more in life than the greatest of things without it. &amp;mdash; Carl Jung   Who looks outside, dreams; who looks inside, awakes.</description>
+      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.&amp;mdash; Carl Jung The least of things with a meaning is worth more in life than the greatest of things without it.&amp;mdash; Carl Jung Who looks outside, dreams; who looks inside, awakes.</description>
     </item>
     
     <item>
@@ -142,8 +142,8 @@ Follow the following steps:
       
       <guid>http://www.robbievanaert.com/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
+▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
   </channel>

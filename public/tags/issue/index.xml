@@ -14,7 +14,7 @@
       
       <guid>http://www.robbievanaert.com/cmd-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/42
-Line 1 Line 2 Line 3  </description>
+Line 1Line 2Line 3</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ Line 1 Line 2 Line 3  </description>
       
       <guid>http://www.robbievanaert.com/multiple-expandable-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
- expandable 1     Same inner text.    expandable 2     Same inner text.    expandable 3     Different inner text.   </description>
+expandable 1Same inner text.expandable 2Same inner text.expandable 3Different inner text.</description>
     </item>
     
     <item>

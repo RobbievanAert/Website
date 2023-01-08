@@ -219,7 +219,7 @@ for (i in 1:nrow(df))
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
                                      ". doi: ", doi, " ", pdf, " ", osf) 
       } else if (is.na(pages) & issue == "(NA)")
-      { # If page numbers and isue are missing, exclude these from citation
+      { # If page numbers and issue are missing, exclude these from citation
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
                                      ", ", volume, ". doi: ", doi, " ", 
                                      pdf) 
@@ -246,6 +246,11 @@ for (i in 1:nrow(df))
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
                                      ", ", volume, issue, ", ", pages, ". doi: ", doi, " ", 
                                      pdf)
+      } else if (issue == "(NA)" & volume == "*NA*" & na_link(pdf))
+      { # If issue and OSF are missing
+        entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
+                                     ", ", pages, ". doi: ", doi, " ", 
+                                     osf) 
       } else
       {
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
@@ -260,7 +265,10 @@ for (i in 1:nrow(df))
           issue == "(NA)" & na_link(pdf))
       { # If page numbers, OSF, PDF, doi, volume, and issue are missing
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ")
-      } else 
+      } else if (is.na(pages) & na_link(doi) & volume == "*NA*" & issue == "(NA)" & na_link(pdf))
+      { # If page numbers, PDF, doi, volume, and issue are missing
+        entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", osf)
+      } else
       {
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, 
                                      ". doi: ", doi, " ", pdf, " ", osf)
@@ -405,6 +413,14 @@ cat(as.vector(tmp[ ,2]), sep = "\n")
 
 ```{r inpress, results = "asis", echo = FALSE}
 tmp <- subset(entries, is.na(entries[ ,"year"]))
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2022
+
+```{r 2022, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2022" & entries[ ,"submitted"] == 0)
 
 cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
