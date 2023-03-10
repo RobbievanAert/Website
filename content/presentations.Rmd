@@ -18,7 +18,7 @@ na_link <- function(x)
 
 ### Load overview file
 df <- read.csv2("presentations_files/overview_presentations.csv")
-# df <- read.csv2("static/presentations_files/overview_presentations.csv")
+# df <- read.csv2("static/presentations_files/overview_presentations.csv") # For local use
 
 entries <- matrix(NA, nrow = nrow(df), ncol = 2, dimnames = list(1:nrow(df), 
                                                                  c("year", "entry")))
@@ -76,6 +76,14 @@ for (i in 1:nrow(df))
   }
   
 }
+```
+
+### 2023
+
+```{r 2023, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2023")
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
 
 ### 2022
