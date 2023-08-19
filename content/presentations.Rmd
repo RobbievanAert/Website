@@ -68,7 +68,11 @@ for (i in 1:nrow(df))
   } else if (na_link(video))
   {
     entries[i,"entry"] <- paste0("* ", title, ". *", event, "*. ", location, ". ", 
-                                 slides)  
+                                 slides)
+  } else if (na_link(slides))
+  {
+    entries[i,"entry"] <- paste0("* ", title, ". *", event, "*. ", location, ". ", 
+                                 video)
   } else
   {
     entries[i,"entry"] <- paste0("* ", title, ". *", event, "*. ", location, ". ", 

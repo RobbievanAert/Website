@@ -21,13 +21,18 @@ knitr::opts_chunk$set(warning = FALSE, message = FALSE)
 #     HOWEVER, THE ORDER IS IMPORTANT, SO NAs NEED TO BE ADDED IF, FOR EXAMPLE,
 #     A LINK TO THE WEBSITE OF THE JOURNAL IS NOT AVAILABLE, BUT OSF IS AVAILABLE.
 
+# NOTE THAT WHEN EXPORTING FROM ZOTERO SOME CHANGES NEED TO BE MADE TO THE BIBTEX
+# ENTRIES (OR THE CODE NEEDS TO BE MODIFIED). CHANGES THAT NEED TO BE MADE ARE:
+# (1) NO {} BRACKETS IN THE TITLE OR AUTHOR NAMES, (2) number IS USED AS BIBTEX 
+# TAG INSTEAD OF issue
+
 ################################################################################
 
 #################
 ### FUNCTIONS ###
 #################
 
-### Function for checking whether a RMarkdown link is NA
+### Function for checking whether an RMarkdown link is NA
 na_link <- function(x)
 {
   substr(x, start = nchar(x)-2, stop = nchar(x)-1) == "NA"
@@ -210,7 +215,12 @@ for (i in 1:nrow(df))
     { # If journal not NA, create entry
       
       if (is.na(pages) & na_link(osf) & na_link(doi) & volume == "*NA*" & 
-          issue == "(NA)")
+          issue == "(NA)" & na_link(pdf))
+      {
+        entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
+                                     ". ") 
+      } else if (is.na(pages) & na_link(osf) & na_link(doi) & volume == "*NA*" & 
+                 issue == "(NA)")
       { # If page numbers, OSF, doi, volume, and issue are missing
         entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ", journal, 
                                      ". ", pdf) 
@@ -261,6 +271,11 @@ for (i in 1:nrow(df))
       entries[i,"submitted"] <- 0
     } else
     { # If journal is NA, manuscript is submitted
+      
+      ### Make year the current year to avoid that one of the previous years are
+      # listed for submitted manuscripts
+      year <- format(as.Date(Sys.time(), format="%d/%m/%Y"),"%Y")
+      
       if (is.na(pages) & na_link(osf) & na_link(doi) & volume == "*NA*" & 
           issue == "(NA)" & na_link(pdf))
       { # If page numbers, OSF, PDF, doi, volume, and issue are missing
@@ -323,6 +338,8 @@ for (i in 1:nrow(df))
     
     entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". ",
                                  publisher, ". doi: ", doi, " ", pdf)
+    
+    entries[i,"submitted"] <- 0
     
   } else if (dat$CATEGORY == "BOOK_SECTION")
   {
@@ -395,6 +412,8 @@ for (i in 1:nrow(df))
     entries[i,"entry"] <- paste0("* ", authors, " (", year, "). ", title, ". In ",
                                  editors, " ", book_title, ". ", publisher, 
                                  ". doi: ", doi, " ", pdf, " ", osf)
+    
+    entries[i,"submitted"] <- 0
   }
   
 }
@@ -413,6 +432,14 @@ cat(as.vector(tmp[ ,2]), sep = "\n")
 
 ```{r inpress, results = "asis", echo = FALSE}
 tmp <- subset(entries, is.na(entries[ ,"year"]))
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2023
+
+```{r 2023, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2023" & entries[ ,"submitted"] == 0)
 
 cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
