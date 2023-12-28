@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Robbie C.M. van Aert</title>
-    <link>http://www.robbievanaert.com/</link>
+    <link>https://www.robbievanaert.com/</link>
     <description>Recent content in Home on Robbie C.M. van Aert</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="http://www.robbievanaert.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Jun 2017 18:27:58 +0100</lastBuildDate><atom:link href="https://www.robbievanaert.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello R Markdown</title>
-      <link>http://www.robbievanaert.com/2020-12-01-r-rmarkdown/</link>
+      <link>https://www.robbievanaert.com/2020-12-01-r-rmarkdown/</link>
       <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>http://www.robbievanaert.com/2020-12-01-r-rmarkdown/</guid>
+      <guid>https://www.robbievanaert.com/2020-12-01-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
@@ -20,40 +20,40 @@ summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>cmd Test</title>
-      <link>http://www.robbievanaert.com/cmd-test/</link>
+      <link>https://www.robbievanaert.com/cmd-test/</link>
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>http://www.robbievanaert.com/cmd-test/</guid>
+      <guid>https://www.robbievanaert.com/cmd-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/42
 Line 1Line 2Line 3</description>
     </item>
     
     <item>
       <title>Multiple Expandable Test</title>
-      <link>http://www.robbievanaert.com/multiple-expandable-test/</link>
+      <link>https://www.robbievanaert.com/multiple-expandable-test/</link>
       <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
       
-      <guid>http://www.robbievanaert.com/multiple-expandable-test/</guid>
+      <guid>https://www.robbievanaert.com/multiple-expandable-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
 expandable 1Same inner text.expandable 2Same inner text.expandable 3Different inner text.</description>
     </item>
     
     <item>
       <title>Special Character Test</title>
-      <link>http://www.robbievanaert.com/special-character-test/</link>
+      <link>https://www.robbievanaert.com/special-character-test/</link>
       <pubDate>Tue, 10 Sep 2019 20:26:08 -0500</pubDate>
       
-      <guid>http://www.robbievanaert.com/special-character-test/</guid>
+      <guid>https://www.robbievanaert.com/special-character-test/</guid>
       <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/16
 Cette phrase prononcée par Greta Thunberg</description>
     </item>
     
     <item>
       <title>Katex Math Typesetting</title>
-      <link>http://www.robbievanaert.com/katex-math-typesetting/</link>
+      <link>https://www.robbievanaert.com/katex-math-typesetting/</link>
       <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/katex-math-typesetting/</guid>
+      <guid>https://www.robbievanaert.com/katex-math-typesetting/</guid>
       <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
 Note: Use the online reference of supported TeX functions.
 Some math:
@@ -64,10 +64,10 @@ $$\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ $$ \varphi = 
     
     <item>
       <title>Cupper Typography</title>
-      <link>http://www.robbievanaert.com/cupper-typography/</link>
+      <link>https://www.robbievanaert.com/cupper-typography/</link>
       <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
       
-      <guid>http://www.robbievanaert.com/cupper-typography/</guid>
+      <guid>https://www.robbievanaert.com/cupper-typography/</guid>
       <description>Headings ## Heading 2### Heading 3#### Heading 4##### Heading 5###### Heading 6 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic*_This will also be italic_**This text will be bold**__This will also be bold___You **can** combine them_ This text will be italic
 This will also be italic
 This text will be bold
@@ -76,95 +76,95 @@ This will also be bold</description>
     
     <item>
       <title>Cupper Shortcodes</title>
-      <link>http://www.robbievanaert.com/cupper-shortcodes/</link>
+      <link>https://www.robbievanaert.com/cupper-shortcodes/</link>
       <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
       
-      <guid>http://www.robbievanaert.com/cupper-shortcodes/</guid>
+      <guid>https://www.robbievanaert.com/cupper-shortcodes/</guid>
       <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}}Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.{{&amp;lt; /blockquote &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
     </item>
     
     <item>
       <title>NASA Images</title>
-      <link>http://www.robbievanaert.com/nasa-images/</link>
+      <link>https://www.robbievanaert.com/nasa-images/</link>
       <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
       
-      <guid>http://www.robbievanaert.com/nasa-images/</guid>
+      <guid>https://www.robbievanaert.com/nasa-images/</guid>
       <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.
 The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
     </item>
     
     <item>
       <title>Quotes by Carl Jung</title>
-      <link>http://www.robbievanaert.com/quotes-by-carl-jung/</link>
+      <link>https://www.robbievanaert.com/quotes-by-carl-jung/</link>
       <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
       
-      <guid>http://www.robbievanaert.com/quotes-by-carl-jung/</guid>
+      <guid>https://www.robbievanaert.com/quotes-by-carl-jung/</guid>
       <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.&amp;mdash; Carl Jung The least of things with a meaning is worth more in life than the greatest of things without it.&amp;mdash; Carl Jung Who looks outside, dreams; who looks inside, awakes.</description>
     </item>
     
     <item>
       <title>Creating a New Theme</title>
-      <link>http://www.robbievanaert.com/creating-a-new-theme/</link>
+      <link>https://www.robbievanaert.com/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/creating-a-new-theme/</guid>
+      <guid>https://www.robbievanaert.com/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Presentations</title>
-      <link>http://www.robbievanaert.com/presentations/</link>
+      <link>https://www.robbievanaert.com/presentations/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/presentations/</guid>
-      <description>2023Meta-Analyzing Multi-lab Replication Projects Using Individual Participant Data Meta-Analysis. 5th International Convention of Psychological Science. Brussels, Belgium. Slides2022Meta-analysis workshop. Invited workshop at the University of Zurich. Zurich, Switzerland.2021Analyzing data of a multi-lab replication project with individual participant data meta-analysis: A tutorial. 9th Annual Meeting of Berkeley Initiative for Transparency in the Social Science. Berkeley, USA. Slides VideoComparing the prevalence of statistical reporting inconsistencies in COVID-19 preprints and matched controls: A Registered Report.</description>
+      <guid>https://www.robbievanaert.com/presentations/</guid>
+      <description>2023Meta-analyzing multi-lab replication projects using individual participant data meta-analysis. 5th International Convention of Psychological Science. Brussels, Belgium. SlidesInvited member of a panel discussing “Controlling for publication bias: Challenges &amp;amp; future directions”. Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf). Online. VideoTutorial R package puniform. Invited presentation at the Evidence Synthesis and Meta-Analysis in R Conference (ESMARConf). Online. Slides Video2022Meta-analysis workshop. Invited workshop at the University of Zurich.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>http://www.robbievanaert.com/publications/</link>
+      <link>https://www.robbievanaert.com/publications/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/publications/</guid>
-      <description>Submitted papersvan Aert, R. C. M. &amp;amp; van Assen, M. A. L. M. (2022). Correcting for publication bias in a meta-analysis with the p-uniform* method. Manuscript submitted for publication. doi: 10.31222/osf.io/zqjr9 PDF OSFvan Aert, R. C. M. &amp;amp; Wicherts, J. M. (2022). Correcting for outcome reporting bias in a meta-analysis: A meta-regression approach. Manuscript submitted for publication. doi: 10.31222/osf.io/bn8vd PDF OSFSchaerer, M., Nguyen, M., du Plessis, C.</description>
+      <guid>https://www.robbievanaert.com/publications/</guid>
+      <description>Submitted papersvan Aert, R. C. M. &amp;amp; van Assen, M. A. L. M. (2023). Correcting for publication bias in a meta-analysis with the p-uniform* method. Manuscript submitted for publication. doi: 10.31222/osf.io/zqjr9 PDF OSFSchaerer, M., Nguyen, M., du Plessis, C., van Aert, R. C. M., Tiokhin, L., …, &amp;amp; Uhlmann, E. L. (2023). Meta-analysis of 44 years of field audits reveals a decline in gender discrimination across time.</description>
     </item>
     
     <item>
       <title>Side Projects</title>
-      <link>http://www.robbievanaert.com/side/</link>
+      <link>https://www.robbievanaert.com/side/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/side/</guid>
+      <guid>https://www.robbievanaert.com/side/</guid>
       <description>In my spare time, I like to do sports such as playing tennis and running. I also frequently play around with projects where I apply statistics to sports data. Two of these projects are described below.
 Predicting the winner of tennis matchesI developed a statistical model to predict the winner of professional tennis matches. A large part of this project was creating a large-scale database with tennis players and matches.</description>
     </item>
     
     <item>
       <title>Software</title>
-      <link>http://www.robbievanaert.com/software/</link>
+      <link>https://www.robbievanaert.com/software/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/software/</guid>
+      <guid>https://www.robbievanaert.com/software/</guid>
       <description>I am the author and developer of the R package “puniform” that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the p-uniform method (van Assen, van Aert, &amp;amp; Wicherts, 2015; van Aert, Wicherts, &amp;amp; van Assen, 2016) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis.</description>
     </item>
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>http://www.robbievanaert.com/goisforlovers/</link>
+      <link>https://www.robbievanaert.com/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/goisforlovers/</guid>
+      <guid>https://www.robbievanaert.com/goisforlovers/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
     </item>
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>http://www.robbievanaert.com/hugoisforlovers/</link>
+      <link>https://www.robbievanaert.com/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/hugoisforlovers/</guid>
+      <guid>https://www.robbievanaert.com/hugoisforlovers/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
@@ -175,10 +175,10 @@ Follow the following steps:
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>http://www.robbievanaert.com/migrate-from-jekyll/</link>
+      <link>https://www.robbievanaert.com/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.robbievanaert.com/migrate-from-jekyll/</guid>
+      <guid>https://www.robbievanaert.com/migrate-from-jekyll/</guid>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
 ▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
