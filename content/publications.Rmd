@@ -436,6 +436,14 @@ tmp <- subset(entries, is.na(entries[ ,"year"]))
 cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
 
+### 2024
+
+```{r 2024, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2024" & entries[ ,"submitted"] == 0)
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
 ### 2023
 
 ```{r 2023, results = "asis", echo = FALSE}
