@@ -82,6 +82,14 @@ for (i in 1:nrow(df))
 }
 ```
 
+### 2025
+
+```{r 2025, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2025")
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
 ### 2024
 
 ```{r 2024, results = "asis", echo = FALSE}
