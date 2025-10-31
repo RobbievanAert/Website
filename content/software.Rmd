@@ -3,11 +3,11 @@ date: "2014-04-09"
 title: "Software"
 ---
 
-I am the author and developer of the R package "puniform" that contains meta-analysis methods to correct for publication bias. Three methods are currently included in the package. First, the *p*-uniform method ([van Assen, van Aert, & Wicherts, 2015](/publication/van-assen-2015/); [van Aert, Wicherts, & van Assen, 2016](/publication/van-aert-2016)) can be used for estimating effect size, testing the null hypothesis of no effect, and testing for publication bias in a meta-analysis. 
+I am the author and developer of the R package *puniform*, which contains meta-analytic methods to correct for publication bias. Four methods are currently included in the package. The first is the *p*-uniform method ([van Assen, van Aert, & Wicherts, 2015](http://dx.doi.org/10.1037/met0000025)); [van Aert, Wicherts, & van Assen, 2016](https://doi.org/10.1177/1745691616650874)), which can be used to estimate effect size, test the null hypothesis of no effect, and assess the presence of publication bias in a meta-analysis. The *p*-uniform method was later refined and extended in [van Aert & van Assen (in press)](https://osf.io/preprints/metaarxiv/zqjr9/) resulting in an improved approach known as *p*-uniform*.
 
-Another method in the package is the hybrid method ([van Aert & van Assen, 2018](/publication/van-aert-2018-b/)). This method is a meta-analysis method for combining an original study and replication and while taking into account statistical significance of the original study. The *p*-uniform and hybrid method are based on the statistical theory that the distribution of *p*-values is uniform at the population effect size. 
+Another method in the package is the hybrid method. This method was initially developed as a meta-analysis method for combining one original study and one replication and while taking into account statistical significance of the original study ([van Aert & van Assen, 2018](https://doi.org/10.3758/s13428-017-0967-6)). The method was later on extended to meta-analyze a mix of nonpreregistered original studies and preregistered replications ([van Aert, in press](https://doi.org/10.1037/met0000719)).
 
-The third method in the package is the Snapshot Bayesian Hybrid Meta-Analysis Method ([van Aert & van Assen, 2017](/publication/van-aert-2017)). This method computes posterior probabilities at four hypothesized effect sizes (e.g., no, small, medium, and large) based on an original study and replication while taking into account statistical significance in the original study. The method can also be used for computing the required sample size of the replication akin to power analysis in null hypothesis significance testing.
+The fourth method in the package is the Snapshot Bayesian Hybrid Meta-Analysis Method ([van Aert & van Assen, 2017](http://dx.doi.org/10.1371%2Fjournal.pone.0175302)). This method computes posterior probabilities at four hypothesized effect sizes (e.g., no, small, medium, and large) based on an original study and replication while taking into account statistical significance in the original study. The method can also be used for computing the required sample size of the replication akin to power analysis in null hypothesis significance testing.
 
 ### Installing the "puniform" package
 
@@ -20,6 +20,7 @@ install.packages("puniform")
 library(puniform)
 ### Access documentation
 ?puniform
+?puni_star
 ?hybrid
 ?snapshot
 ```
@@ -39,4 +40,4 @@ library(puniform)
 
 ### Web applications
 
-I also developed web applications for applying [*p*-uniform](https://rvanaert.shinyapps.io/p-uniform), the [hybrid method](https://rvanaert.shinyapps.io/hybrid), and [Snapshot Bayesian Hybrid Meta-Analysis Method](https://rvanaert.shinyapps.io/snapshot) for researchers who are not familiar with R.
+I also developed web applications for applying [*p*-uniform](https://rvanaert.shinyapps.io/p-uniform), [*p*-uniform*](https://rvanaert.shinyapps.io/p-uniformstar/), the [hybrid method](https://rvanaert.shinyapps.io/hybrid), [Snapshot Bayesian Hybrid Meta-Analysis Method](https://rvanaert.shinyapps.io/snapshot), and [meta-plot](https://rvanaert.shinyapps.io/meta-plot/) for researchers who are not familiar with R.

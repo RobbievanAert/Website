@@ -5,9 +5,9 @@ title: "Home"
 
 Welcome to my website! I am working at the department of Methodology and Statistics at Tilburg University, and I am member of the [Meta-Research Center](https://metaresearch.nl/). 
 
-My research is currently funded by a Veni grant from the Dutch Research Council (NWO). You can find more details about my publications, software, presentations, and CV on this website.
-
 My research interests are statistical methods to conduct meta-analyses and methods to correct for publication bias. I also like to apply statistics to sports data (see [Side Projects](/side/)).
+
+You can find more details about my publications, software, presentations, and CV on this website.
 
 These are links to my research profiles: [OSF](https://osf.io/raetf/), [Google Scholar](https://scholar.google.nl/citations?user=ijbB068AAAAJ&hl=en), and [Github](https://github.com/robbievanaert)
 
