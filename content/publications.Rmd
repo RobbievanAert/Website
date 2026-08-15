@@ -419,7 +419,6 @@ for (i in 1:nrow(df))
 }
 ```
 
-
 ### Submitted papers
 
 ```{r submitted, results = "asis", echo = FALSE}
@@ -432,6 +431,14 @@ cat(as.vector(tmp[ ,2]), sep = "\n")
 
 ```{r inpress, results = "asis", echo = FALSE}
 tmp <- subset(entries, is.na(entries[ ,"year"]))
+
+cat(as.vector(tmp[ ,2]), sep = "\n")
+```
+
+### 2026
+
+```{r 2026, results = "asis", echo = FALSE}
+tmp <- subset(entries, entries[ ,"year"] == "2026" & entries[ ,"submitted"] == 0)
 
 cat(as.vector(tmp[ ,2]), sep = "\n")
 ```
