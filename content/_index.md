@@ -5,7 +5,7 @@ title: "Home"
 
 Welcome to my website! I work in the Department of Methodology and Statistics at Tilburg University and am a member of the [Meta-Research Center](https://metaresearch.nl/). 
 
-My research focuses on developing and evaluating statistical methods for meta-analysis, particularly methods for detecting and correcting publication bias and selective reporting. I also study replicability and how to incorporate evidence from preregistered and replication studies. My research is currently funded by a Vidi grant from the Dutch Research Council (NWO), which previously awarded me a Veni grant.
+My research focuses primarily on developing and evaluating statistical methods for meta-analysis. This work is currently funded by a Vidi grant from the Dutch Research Council (NWO), which previously awarded me a Veni grant.
 
 Outside my academic research, I enjoy applying statistics to sports data (see [Side Projects](/side/)).
 
